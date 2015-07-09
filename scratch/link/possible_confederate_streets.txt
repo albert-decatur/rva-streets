@@ -1,0 +1,73 @@
+street name,confederates
+Patterson,Patterson Josiah
+Whitehead,Whitehead Thomas
+Harrison,Harrison Thomas
+Thompson,Thompson M. Jeff
+Barton,Barton Seth
+MARSHALL,Marshall Humphrey
+Robinson,Robinson James L.
+Northrop,Northrop Lucius B.
+Randolph,Randolph George W.
+Grayson,Grayson John B.
+Preston,Preston William
+Wharton,Wharton John A.
+Thomas,Thomas Allen
+Norton,Norton James
+Pettus,Pettus Edmund
+Daniel,Daniel Junius
+Cheatham,Cheatham Benjamin F.
+Roberts,Roberts Oran Milo
+Talbert,Talbert W. Jasper
+Hopkins,Hopkins Samuel I.
+Munford,Munford Thomas T.
+Jackson,Jackson Alfred E.
+Adams,Adams John
+Campbell,Campbell Alexander W.
+Lawson,Lawson John W.
+Semmes,Semmes Raphael
+Miller,Miller William
+Bryan,Bryan Goode
+Kemper,Kemper James L.
+Walker,Walker James A.
+Taylor,Taylor John May
+Gordon,Gordon James B.
+Stafford,Stafford Leroy Augustus
+Wilcox,Wilcox Cadmus M.
+Shelby,Shelby Joseph O.
+Lowry,Lowry Robert
+Wallace,Wallace William Henry
+JACKSON,Jackson William Hicks
+Cooper,Cooper Douglas H.
+Wright,Wright Ambrose R.
+Buford,Buford Abraham  II
+Greer,Greer Elkanah
+Brown,Brown John C.
+Smith,Smith William
+Simpson,Simpson William Dunlap
+Lamb,Lamb John
+Price,Price Sterling
+French,French Samuel Gibbs
+Carson,Carson James Harvey
+Maury,Maury Dabney H.
+Jarvis,Jarvis Thomas Jordan
+Hill,Hill A. P.
+Davis,Davis Alexander
+Dixon,Dixon George E.
+Gilmer,Gilmer Jeremy Francis
+Winder,Winder Charles Sidney
+Perry,Perry William H.
+Moore,Moore Patrick T.
+Lewis,Lewis William G.
+Tyler,Tyler James Hoge
+Roane,Roane John Selden
+Clarke,Clarke Marcellus Jerome
+Hooper,Hooper Benjamin Stephen
+Young,Young William Hugh
+Beale,Beale Richard L. T.
+Allen,Allen Henry Watkins
+Moody,Moody Young Marshall
+Bowen,Bowen Christopher C.
+Wise,Wise George D.
+Berry,Berry James Henderson
+Jeter,Jeter Thomas Bothwell
+West,West Absolom M.

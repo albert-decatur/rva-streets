@@ -28,6 +28,7 @@ Semmes,Semmes Raphael
 Miller,Miller William
 Bryan,Bryan Goode
 Kemper,Kemper James L.
+KEMPER,Kemper James L.
 Walker,Walker James A.
 Taylor,Taylor John May
 Gordon,Gordon James B.

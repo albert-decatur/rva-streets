@@ -1,4140 +1,4140 @@
-type	total value
-civil rights	1539000
-civil rights	63000
-civil rights	54000
-civil rights	75000
-civil rights	59000
-civil rights	63000
-civil rights	60000
-civil rights	63000
-civil rights	62000
-civil rights	78000
-civil rights	80000
-civil rights	62000
-civil rights	105000
-civil rights	65000
-civil rights	54000
-civil rights	48000
-civil rights	74000
-civil rights	52000
-civil rights	90000
-civil rights	41000
-civil rights	50000
-civil rights	65000
-civil rights	45000
-civil rights	43000
-civil rights	41000
-civil rights	40000
-civil rights	10000
-civil rights	60000
-civil rights	64000
-civil rights	45000
-civil rights	42000
-civil rights	42000
-civil rights	58000
-civil rights	53000
-civil rights	45000
-civil rights	73000
-civil rights	38000
-civil rights	35000
-civil rights	37000
-civil rights	10000
-civil rights	10000
-civil rights	129000
-civil rights	54000
-civil rights	41000
-civil rights	55000
-civil rights	120000
-civil rights	106000
-civil rights	66000
-civil rights	103000
-civil rights	124000
-civil rights	106000
-civil rights	57000
-civil rights	41000
-civil rights	47000
-civil rights	33000
-civil rights	51000
-civil rights	10000
-civil rights	87000
-civil rights	96000
-civil rights	110000
-civil rights	119000
-civil rights	32872000
-civil rights	287000
-civil rights	698000
-civil rights	1406000
-civil rights	216000
-civil rights	880000
-civil rights	861000
-civil rights	768000
-civil rights	413000
-civil rights	765000
-civil rights	4115000
-civil rights	122000
-civil rights	471000
-civil rights	54000
-civil rights	83000
-civil rights	539000
-civil rights	128000
-civil rights	578000
-civil rights	150000
-civil rights	1354000
-civil rights	126000
-civil rights	773000
-civil rights	1803000
-civil rights	3183000
-civil rights	212000
-civil rights	425000
-civil rights	423000
-civil rights	221000
-civil rights	1350000
-civil rights	180000
-civil rights	361000
-civil rights	3880000
-civil rights	442000
-civil rights	5964000
-civil rights	1490000
-civil rights	10850000
-civil rights	145000
-civil rights	4042000
-civil rights	118000
-civil rights	44000
-civil rights	105000
-civil rights	63000
-civil rights	120000
-civil rights	542000
-civil rights	2348000
-civil rights	521000
-civil rights	180000
-civil rights	2000
-civil rights	2772000
-civil rights	33000
-civil rights	575000
-civil rights	307000
-civil rights	272000
-civil rights	279000
-civil rights	219000
-civil rights	220000
-civil rights	224000
-civil rights	234000
-civil rights	209000
-civil rights	515000
-civil rights	307000
-civil rights	234000
-civil rights	516000
-civil rights	322000
-civil rights	314000
-civil rights	303000
-civil rights	391000
-civil rights	350000
-civil rights	225000
-civil rights	3000
-civil rights	483000
-civil rights	503000
-civil rights	225000
-civil rights	2000
-civil rights	609000
-civil rights	489000
-civil rights	659000
-civil rights	530000
-civil rights	650000
-civil rights	151000
-civil rights	475000
-civil rights	468000
-civil rights	393000
-civil rights	399000
-civil rights	240000
-civil rights	257000
-civil rights	298000
-civil rights	331000
-civil rights	399000
-civil rights	306000
-civil rights	364000
-civil rights	317000
-civil rights	335000
-civil rights	340000
-civil rights	493000
-civil rights	459000
-civil rights	350000
-civil rights	248000
-civil rights	302000
-civil rights	298000
-civil rights	259000
-civil rights	450000
-civil rights	337000
-civil rights	399000
-civil rights	337000
-civil rights	424000
-civil rights	1880000
-civil rights	165000
-civil rights	20000
-civil rights	20000
-civil rights	165000
-civil rights	35000
-civil rights	5000
-civil rights	5000
-civil rights	5000
-civil rights	5000
-civil rights	5000
-civil rights	5000
-civil rights	10000
-civil rights	225000
-civil rights	5000
-civil rights	125000
-civil rights	20000
-civil rights	9000
-civil rights	30000
-civil rights	22500000
-civil rights	7178000
-civil rights	1236000
-civil rights	1040000
-civil rights	240000
-civil rights	19915000
-civil rights	306000
-civil rights	261000
-civil rights	1634000
-civil rights	3799000
-civil rights	13907000
-civil rights	1139000
-civil rights	2313000
-civil rights	967000
-civil rights	10640000
-civil rights	23729000
-civil rights	1716000
-civil rights	290000
-civil rights	2369000
-civil rights	489000
-civil rights	2000
-civil rights	2000
-civil rights	13124000
-civil rights	3464000
-civil rights	375000
-civil rights	3954000
-civil rights	257000
-civil rights	254000
-civil rights	723000
-civil rights	756000
-civil rights	600000
-civil rights	596000
-civil rights	558000
-civil rights	569000
-civil rights	2307000
-civil rights	989000
-civil rights	926000
-civil rights	717000
-civil rights	483000
-civil rights	6859000
-civil rights	881000
-civil rights	700000
-civil rights	300000
-civil rights	25000000
-civil rights	1912000
-civil rights	1431000
-civil rights	957000
-civil rights	650000
-civil rights	1297000
-civil rights	152000
-civil rights	621000
-civil rights	1037000
-civil rights	2000
-civil rights	1818000
-civil rights	5647000
-civil rights	9849000
-civil rights	12161000
-civil rights	582000
-civil rights	371000
-civil rights	136000
-civil rights	7172000
-civil rights	195000
-civil rights	195000
-civil rights	750000
-civil rights	987000
-civil rights	1060000
-civil rights	444000
-civil rights	407000
-civil rights	591000
-civil rights	14096000
-civil rights	724000
-civil rights	10075000
-civil rights	770000
-civil rights	2000
-civil rights	3055000
-civil rights	2074000
-civil rights	15434000
-civil rights	8768000
-civil rights	741000
-civil rights	1061000
-civil rights	15013000
-civil rights	1181000
-civil rights	574000
-civil rights	899000
-civil rights	2085000
-civil rights	698000
-civil rights	586000
-civil rights	666000
-civil rights	975000
-civil rights	1074000
-civil rights	1479000
-civil rights	888000
-civil rights	721000
-civil rights	742000
-civil rights	736000
-civil rights	888000
-civil rights	2447000
-civil rights	2891000
-civil rights	910000
-civil rights	334000
-civil rights	114000
-civil rights	364000
-civil rights	2000
-civil rights	1831000
-civil rights	4790000
-civil rights	216000
-civil rights	1532000
-civil rights	644000
-civil rights	572000
-civil rights	1101000
-civil rights	572000
-civil rights	537000
-civil rights	505000
-civil rights	608000
-civil rights	824000
-civil rights	1060000
-civil rights	771000
-civil rights	584000
-civil rights	1175000
-civil rights	222000
-civil rights	647000
-civil rights	730000
-civil rights	893000
-civil rights	618000
-civil rights	613000
-civil rights	489000
-civil rights	386000
-civil rights	426000
-civil rights	547000
-civil rights	2243000
-civil rights	2685000
-civil rights	228000
-civil rights	4425000
-civil rights	495000
-civil rights	559000
-civil rights	463000
-civil rights	607000
-civil rights	730000
-civil rights	854000
-civil rights	1380000
-civil rights	2225000
-civil rights	2855000
-civil rights	2687000
-civil rights	3670000
-civil rights	3410000
-civil rights	1455000
-civil rights	556000
-civil rights	510000
-civil rights	374000
-civil rights	1779000
-civil rights	777000
-civil rights	423000
-civil rights	701000
-civil rights	1000
-civil rights	1000
-civil rights	311000
-civil rights	629000
-civil rights	335000
-civil rights	85000
-civil rights	286000
-civil rights	276000
-civil rights	317000
-civil rights	273000
-civil rights	282000
-civil rights	309000
-civil rights	287000
-civil rights	430000
-civil rights	550000
-civil rights	1597000
-civil rights	85000
-civil rights	397000
-civil rights	363000
-civil rights	164000
-civil rights	353000
-civil rights	367000
-civil rights	314000
-civil rights	284000
-civil rights	225000
-civil rights	615000
-civil rights	380000
-civil rights	346000
-civil rights	273000
-civil rights	246000
-civil rights	376000
-civil rights	304000
-civil rights	333000
-civil rights	316000
-civil rights	249000
-civil rights	237000
-civil rights	244000
-civil rights	281000
-civil rights	259000
-civil rights	274000
-civil rights	158000
-civil rights	312000
-civil rights	302000
-civil rights	332000
-civil rights	372000
-civil rights	383000
-civil rights	373000
-civil rights	418000
-civil rights	367000
-civil rights	329000
-civil rights	358000
-civil rights	399000
-civil rights	387000
-civil rights	349000
-civil rights	499000
-civil rights	555000
-civil rights	326000
-civil rights	361000
-civil rights	369000
-civil rights	506000
-civil rights	337000
-civil rights	316000
-civil rights	341000
-civil rights	339000
-civil rights	400000
-civil rights	303000
-civil rights	332000
-civil rights	403000
-civil rights	386000
-civil rights	460000
-civil rights	389000
-civil rights	450000
-civil rights	575000
-civil rights	376000
-civil rights	432000
-civil rights	404000
-civil rights	327000
-civil rights	372000
-civil rights	380000
-civil rights	357000
-civil rights	342000
-civil rights	331000
-civil rights	274000
-civil rights	334000
-civil rights	437000
-civil rights	251000
-civil rights	252000
-civil rights	266000
-civil rights	279000
-civil rights	216000
-civil rights	466000
-civil rights	523000
-civil rights	389000
-civil rights	286000
-civil rights	386000
-civil rights	221000
-civil rights	332000
-civil rights	273000
-civil rights	225000
-civil rights	306000
-civil rights	292000
-civil rights	315000
-civil rights	307000
-civil rights	298000
-civil rights	431000
-civil rights	501000
-civil rights	456000
-civil rights	340000
-civil rights	368000
-civil rights	321000
-civil rights	530000
-civil rights	299000
-civil rights	420000
-civil rights	439000
-civil rights	455000
-civil rights	366000
-civil rights	457000
-civil rights	508000
-civil rights	566000
-civil rights	408000
-civil rights	574000
-civil rights	497000
-civil rights	412000
-civil rights	533000
-civil rights	716000
-civil rights	554000
-civil rights	344000
-civil rights	282000
-civil rights	450000
-civil rights	468000
-civil rights	345000
-civil rights	544000
-civil rights	269000
-civil rights	391000
-civil rights	300000
-civil rights	410000
-civil rights	364000
-civil rights	472000
-civil rights	403000
-civil rights	507000
-civil rights	542000
-civil rights	401000
-civil rights	366000
-civil rights	591000
-civil rights	508000
-civil rights	571000
-civil rights	400000
-civil rights	662000
-civil rights	634000
-civil rights	454000
-civil rights	404000
-civil rights	630000
-civil rights	771000
-civil rights	451000
-civil rights	392000
-civil rights	360000
-civil rights	613000
-civil rights	308000
-civil rights	292000
-civil rights	353000
-civil rights	457000
-civil rights	499000
-civil rights	337000
-civil rights	352000
-civil rights	425000
-civil rights	470000
-civil rights	385000
-civil rights	369000
-civil rights	426000
-civil rights	539000
-civil rights	343000
-civil rights	359000
-civil rights	302000
-civil rights	345000
-civil rights	282000
-civil rights	313000
-civil rights	276000
-civil rights	387000
-civil rights	300000
-civil rights	282000
-civil rights	297000
-civil rights	279000
-civil rights	268000
-civil rights	327000
-civil rights	317000
-civil rights	437000
-civil rights	333000
-civil rights	311000
-civil rights	292000
-civil rights	306000
-civil rights	412000
-civil rights	365000
-civil rights	422000
-civil rights	298000
-civil rights	356000
-civil rights	299000
-civil rights	435000
-civil rights	314000
-civil rights	603000
-civil rights	599000
-civil rights	533000
-civil rights	286000
-civil rights	274000
-civil rights	230000
-civil rights	265000
-civil rights	35000
-civil rights	305000
-civil rights	335000
-civil rights	374000
-civil rights	217000
-civil rights	534000
-civil rights	400000
-civil rights	392000
-civil rights	331000
-civil rights	256000
-civil rights	373000
-civil rights	279000
-civil rights	234000
-civil rights	292000
-civil rights	293000
-civil rights	280000
-civil rights	239000
-civil rights	328000
-civil rights	198000
-civil rights	480000
-civil rights	296000
-civil rights	187000
-civil rights	265000
-civil rights	304000
-civil rights	249000
-civil rights	283000
-civil rights	430000
-civil rights	213000
-civil rights	207000
-civil rights	390000
-civil rights	249000
-civil rights	239000
-civil rights	195000
-civil rights	168000
-civil rights	187000
-civil rights	293000
-civil rights	303000
-civil rights	325000
-civil rights	184000
-civil rights	250000
-civil rights	233000
-civil rights	335000
-civil rights	284000
-civil rights	421000
-civil rights	286000
-civil rights	363000
-civil rights	341000
-civil rights	253000
-civil rights	277000
-civil rights	177000
-civil rights	198000
-civil rights	205000
-civil rights	295000
-civil rights	284000
-civil rights	298000
-civil rights	293000
-civil rights	241000
-civil rights	292000
-civil rights	292000
-civil rights	179000
-civil rights	181000
-civil rights	269000
-civil rights	213000
-civil rights	291000
-civil rights	397000
-civil rights	439000
-civil rights	419000
-civil rights	358000
-civil rights	171000
-civil rights	35000
-civil rights	245000
-civil rights	265000
-civil rights	213000
-civil rights	232000
-civil rights	242000
-civil rights	244000
-civil rights	260000
-civil rights	239000
-civil rights	509000
-civil rights	298000
-civil rights	180000
-civil rights	273000
-civil rights	254000
-civil rights	303000
-civil rights	201000
-civil rights	262000
-civil rights	180000
-civil rights	211000
-civil rights	290000
-civil rights	275000
-civil rights	280000
-civil rights	205000
-civil rights	220000
-civil rights	208000
-civil rights	219000
-civil rights	253000
-civil rights	220000
-civil rights	213000
-civil rights	253000
-civil rights	267000
-civil rights	349000
-civil rights	308000
-civil rights	221000
-civil rights	257000
-civil rights	227000
-civil rights	263000
-civil rights	266000
-civil rights	245000
-civil rights	247000
-civil rights	253000
-civil rights	243000
-civil rights	204000
-civil rights	296000
-civil rights	240000
-civil rights	201000
-civil rights	235000
-civil rights	196000
-civil rights	237000
-civil rights	190000
-civil rights	241000
-civil rights	212000
-civil rights	216000
-civil rights	228000
-civil rights	236000
-civil rights	207000
-civil rights	273000
-civil rights	175000
-civil rights	291000
-civil rights	208000
-civil rights	343000
-civil rights	285000
-civil rights	253000
-civil rights	262000
-civil rights	266000
-civil rights	155000
-civil rights	147000
-civil rights	158000
-civil rights	147000
-civil rights	22000
-civil rights	22000
-civil rights	79000
-civil rights	22000
-civil rights	22000
-civil rights	56000
-civil rights	4000
-civil rights	78000
-civil rights	145000
-civil rights	29000
-civil rights	13000
-civil rights	12000
-civil rights	18000
-civil rights	20000
-civil rights	22000
-civil rights	20000
-civil rights	22000
-civil rights	24000
-civil rights	12000
-civil rights	150000
-civil rights	147000
-civil rights	162000
-civil rights	19000
-civil rights	158000
-civil rights	147000
-civil rights	162000
-civil rights	165000
-civil rights	22000
-civil rights	203000
-civil rights	131000
-civil rights	110000
-civil rights	176000
-civil rights	91000
-civil rights	89000
-civil rights	88000
-civil rights	155000
-civil rights	22000
-civil rights	62000
-civil rights	145000
-civil rights	74000
-civil rights	109000
-civil rights	111000
-civil rights	108000
-civil rights	123000
-civil rights	112000
-civil rights	80000
-civil rights	80000
-civil rights	108000
-civil rights	114000
-civil rights	106000
-civil rights	112000
-civil rights	166000
-civil rights	132000
-civil rights	155000
-civil rights	114000
-civil rights	85000
-civil rights	121000
-civil rights	108000
-civil rights	109000
-civil rights	100000
-civil rights	109000
-civil rights	151000
-civil rights	122000
-civil rights	109000
-civil rights	75000
-civil rights	108000
-civil rights	136000
-civil rights	161000
-civil rights	120000
-civil rights	24000
-civil rights	137000
-confederates	257000
-confederates	83000
-confederates	784000
-confederates	23000
-confederates	19000
-confederates	155000
-confederates	251000
-confederates	162000
-confederates	145000
-confederates	131000
-confederates	122000
-confederates	221000
-confederates	516000
-confederates	205000
-confederates	158000
-confederates	166000
-confederates	226000
-confederates	182000
-confederates	164000
-confederates	126000
-confederates	1169000
-confederates	66000
-confederates	68000
-confederates	233000
-confederates	63000
-confederates	51000
-confederates	360000
-confederates	357000
-confederates	342000
-confederates	192000
-confederates	93000
-confederates	745000
-confederates	403000
-confederates	21000
-confederates	20000
-confederates	17000
-confederates	17000
-confederates	18000
-confederates	1434000
-confederates	711000
-confederates	350000
-confederates	206000
-confederates	214000
-confederates	214000
-confederates	206000
-confederates	214000
-confederates	232000
-confederates	207000
-confederates	206000
-confederates	225000
-confederates	222000
-confederates	124000
-confederates	124000
-confederates	206000
-confederates	121000
-confederates	116000
-confederates	1065000
-confederates	796000
-confederates	896000
-confederates	2000
-confederates	610000
-confederates	523000
-confederates	3747000
-confederates	691000
-confederates	274000
-confederates	274000
-confederates	298000
-confederates	194000
-confederates	124000
-confederates	290000
-confederates	258000
-confederates	258000
-confederates	285000
-confederates	277000
-confederates	261000
-confederates	292000
-confederates	288000
-confederates	307000
-confederates	318000
-confederates	265000
-confederates	275000
-confederates	359000
-confederates	359000
-confederates	393000
-confederates	453000
-confederates	412000
-confederates	429000
-confederates	425000
-confederates	280000
-confederates	3750000
-confederates	2000
-confederates	102000
-confederates	110000
-confederates	138000
-confederates	491000
-confederates	630000
-confederates	4000
-confederates	371000
-confederates	432000
-confederates	229000
-confederates	351000
-confederates	300000
-confederates	278000
-confederates	271000
-confederates	274000
-confederates	288000
-confederates	266000
-confederates	249000
-confederates	294000
-confederates	287000
-confederates	254000
-confederates	247000
-confederates	74000
-confederates	328000
-confederates	270000
-confederates	322000
-confederates	402000
-confederates	290000
-confederates	272000
-confederates	410000
-confederates	349000
-confederates	381000
-confederates	372000
-confederates	13000
-confederates	13000
-confederates	422000
-confederates	445000
-confederates	266000
-confederates	223000
-confederates	52000
-confederates	746000
-confederates	601000
-confederates	957000
-confederates	109000
-confederates	74000
-confederates	176000
-confederates	93000
-confederates	185000
-confederates	70000
-confederates	126000
-confederates	94000
-confederates	79000
-confederates	108000
-confederates	67000
-confederates	83000
-confederates	145000
-confederates	110000
-confederates	121000
-confederates	116000
-confederates	109000
-confederates	59000
-confederates	105000
-confederates	106000
-confederates	70000
-confederates	32000
-confederates	140000
-confederates	140000
-confederates	111000
-confederates	109000
-confederates	106000
-confederates	24000
-confederates	166000
-confederates	22000
-confederates	117000
-confederates	156000
-confederates	97000
-confederates	146000
-confederates	110000
-confederates	104000
-confederates	147000
-confederates	108000
-confederates	130000
-confederates	107000
-confederates	291000
-confederates	147000
-confederates	147000
-confederates	156000
-confederates	129000
-confederates	112000
-confederates	141000
-confederates	119000
-confederates	127000
-confederates	110000
-confederates	1075000
-confederates	199000
-confederates	288000
-confederates	142000
-confederates	2000
-confederates	27000
-confederates	126000
-confederates	115000
-confederates	122000
-confederates	114000
-confederates	245000
-confederates	145000
-confederates	149000
-confederates	108000
-confederates	107000
-confederates	177000
-confederates	138000
-confederates	135000
-confederates	164000
-confederates	151000
-confederates	102000
-confederates	126000
-confederates	159000
-confederates	110000
-confederates	153000
-confederates	113000
-confederates	190000
-confederates	145000
-confederates	29000
-confederates	123000
-confederates	150000
-confederates	185000
-confederates	104000
-confederates	133000
-confederates	162000
-confederates	150000
-confederates	146000
-confederates	179000
-confederates	145000
-confederates	156000
-confederates	136000
-confederates	275000
-confederates	104000
-confederates	128000
-confederates	170000
-confederates	161000
-confederates	138000
-confederates	148000
-confederates	29000
-confederates	2000
-confederates	115000
-confederates	125000
-confederates	200000
-confederates	29000
-confederates	24000
-confederates	107000
-confederates	121000
-confederates	120000
-confederates	228000
-confederates	74000
-confederates	27000
-confederates	109000
-confederates	156000
-confederates	140000
-confederates	135000
-confederates	175000
-confederates	128000
-confederates	134000
-confederates	147000
-confederates	60000
-confederates	146000
-confederates	106000
-confederates	91000
-confederates	110000
-confederates	106000
-confederates	115000
-confederates	83000
-confederates	133000
-confederates	116000
-confederates	43000
-confederates	105000
-confederates	21000
-confederates	152000
-confederates	103000
-confederates	170000
-confederates	89000
-confederates	160000
-confederates	174000
-confederates	208000
-confederates	124000
-confederates	132000
-confederates	135000
-confederates	121000
-confederates	117000
-confederates	120000
-confederates	109000
-confederates	109000
-confederates	117000
-confederates	87000
-confederates	122000
-confederates	153000
-confederates	132000
-confederates	127000
-confederates	104000
-confederates	104000
-confederates	138000
-confederates	109000
-confederates	61000
-confederates	107000
-confederates	124000
-confederates	125000
-confederates	128000
-confederates	119000
-confederates	18000
-confederates	123000
-confederates	135000
-confederates	100000
-confederates	195000
-confederates	78000
-confederates	106000
-confederates	121000
-confederates	121000
-confederates	132000
-confederates	120000
-confederates	21000
-confederates	118000
-confederates	113000
-confederates	90000
-confederates	120000
-confederates	121000
-confederates	129000
-confederates	21000
-confederates	129000
-confederates	126000
-confederates	124000
-confederates	138000
-confederates	103000
-confederates	151000
-confederates	141000
-confederates	118000
-confederates	152000
-confederates	137000
-confederates	107000
-confederates	165000
-confederates	109000
-confederates	124000
-confederates	113000
-confederates	113000
-confederates	128000
-confederates	99000
-confederates	128000
-confederates	104000
-confederates	113000
-confederates	153000
-confederates	181000
-confederates	126000
-confederates	121000
-confederates	116000
-confederates	147000
-confederates	181000
-confederates	112000
-confederates	149000
-confederates	20000
-confederates	100000
-confederates	41000
-confederates	63000
-confederates	63000
-confederates	53000
-confederates	10000
-confederates	47000
-confederates	74000
-confederates	55000
-confederates	81000
-confederates	58000
-confederates	15000
-confederates	58000
-confederates	58000
-confederates	50000
-confederates	63000
-confederates	47000
-confederates	52000
-confederates	63000
-confederates	66000
-confederates	72000
-confederates	10000
-confederates	73000
-confederates	46000
-confederates	51000
-confederates	10000
-confederates	85000
-confederates	70000
-confederates	67000
-confederates	67000
-confederates	50000
-confederates	50000
-confederates	48000
-confederates	55000
-confederates	55000
-confederates	61000
-confederates	67000
-confederates	55000
-confederates	55000
-confederates	51000
-confederates	22000
-confederates	89000
-confederates	15000
-confederates	11000
-confederates	11000
-confederates	10000
-confederates	10000
-confederates	10000
-confederates	57000
-confederates	63000
-confederates	11000
-confederates	22000
-confederates	12000
-confederates	171000
-confederates	102000
-confederates	73000
-confederates	87000
-confederates	85000
-confederates	74000
-confederates	103000
-confederates	92000
-confederates	84000
-confederates	75000
-confederates	83000
-confederates	25000
-confederates	51000
-confederates	48000
-confederates	49000
-confederates	45000
-confederates	45000
-confederates	50000
-confederates	49000
-confederates	83000
-confederates	45000
-confederates	46000
-confederates	58000
-confederates	48000
-confederates	53000
-confederates	45000
-confederates	46000
-confederates	57000
-confederates	45000
-confederates	45000
-confederates	139000
-confederates	21000
-confederates	59000
-confederates	59000
-confederates	59000
-confederates	59000
-confederates	62000
-confederates	59000
-confederates	59000
-confederates	59000
-confederates	76000
-confederates	68000
-confederates	71000
-confederates	20000
-confederates	77000
-confederates	20000
-confederates	82000
-confederates	118000
-confederates	89000
-confederates	43000
-confederates	68000
-confederates	98000
-confederates	20000
-confederates	110000
-confederates	78000
-confederates	93000
-confederates	84000
-confederates	110000
-confederates	85000
-confederates	62000
-confederates	85000
-confederates	83000
-confederates	93000
-confederates	61000
-confederates	77000
-confederates	70000
-confederates	77000
-confederates	20000
-confederates	79000
-confederates	124000
-confederates	25000
-confederates	146000
-confederates	101000
-confederates	92000
-confederates	94000
-confederates	93000
-confederates	91000
-confederates	107000
-confederates	276000
-confederates	145000
-confederates	85000
-confederates	85000
-confederates	86000
-confederates	85000
-confederates	87000
-confederates	86000
-confederates	89000
-confederates	97000
-confederates	78000
-confederates	78000
-confederates	79000
-confederates	82000
-confederates	78000
-confederates	78000
-confederates	18000
-confederates	20000
-confederates	6000
-confederates	20000
-confederates	20000
-confederates	15000
-confederates	154000
-confederates	144000
-confederates	1000
-confederates	160000
-confederates	144000
-confederates	141000
-confederates	145000
-confederates	126000
-confederates	1000
-confederates	62000
-confederates	37000
-confederates	37000
-confederates	55000
-confederates	37000
-confederates	48000
-confederates	38000
-confederates	10000
-confederates	53000
-confederates	70000
-confederates	45000
-confederates	10000
-confederates	74000
-confederates	59000
-confederates	10000
-confederates	67000
-confederates	84000
-confederates	26000
-confederates	42000
-confederates	79000
-confederates	46000
-confederates	85000
-confederates	64000
-confederates	52000
-confederates	51000
-confederates	81000
-confederates	37000
-confederates	44000
-confederates	45000
-confederates	35000
-confederates	41000
-confederates	46000
-confederates	533000
-confederates	708000
-confederates	688000
-confederates	627000
-confederates	697000
-confederates	647000
-confederates	510000
-confederates	423000
-confederates	633000
-confederates	534000
-confederates	700000
-confederates	786000
-confederates	517000
-confederates	435000
-confederates	645000
-confederates	929000
-confederates	395000
-confederates	725000
-confederates	530000
-confederates	454000
-confederates	920000
-confederates	635000
-confederates	740000
-confederates	795000
-confederates	134000
-confederates	240000
-confederates	205000
-confederates	181000
-confederates	195000
-confederates	187000
-confederates	227000
-confederates	176000
-confederates	178000
-confederates	178000
-confederates	188000
-confederates	195000
-confederates	229000
-confederates	198000
-confederates	170000
-confederates	243000
-confederates	166000
-confederates	173000
-confederates	171000
-confederates	168000
-confederates	221000
-confederates	190000
-confederates	20000
-confederates	20000
-confederates	20000
-confederates	20000
-confederates	20000
-confederates	20000
-confederates	129000
-confederates	136000
-confederates	96000
-confederates	120000
-confederates	121000
-confederates	98000
-confederates	87000
-confederates	129000
-confederates	97000
-confederates	127000
-confederates	101000
-confederates	109000
-confederates	104000
-confederates	90000
-confederates	114000
-confederates	108000
-confederates	110000
-confederates	132000
-confederates	137000
-confederates	127000
-confederates	111000
-confederates	99000
-confederates	112000
-confederates	104000
-confederates	117000
-confederates	126000
-confederates	102000
-confederates	116000
-confederates	120000
-confederates	156000
-confederates	135000
-confederates	121000
-confederates	142000
-confederates	130000
-confederates	118000
-confederates	119000
-confederates	123000
-confederates	106000
-confederates	93000
-confederates	113000
-confederates	162000
-confederates	191000
-confederates	181000
-confederates	173000
-confederates	171000
-confederates	173000
-confederates	175000
-confederates	177000
-confederates	173000
-confederates	176000
-confederates	202000
-confederates	177000
-confederates	190000
-confederates	173000
-confederates	173000
-confederates	214000
-confederates	175000
-confederates	173000
-confederates	147000
-confederates	147000
-confederates	146000
-confederates	176000
-confederates	171000
-confederates	165000
-confederates	176000
-confederates	174000
-confederates	176000
-confederates	161000
-confederates	165000
-confederates	161000
-confederates	211000
-confederates	167000
-confederates	183000
-confederates	180000
-confederates	198000
-confederates	182000
-confederates	175000
-confederates	158000
-confederates	175000
-confederates	185000
-confederates	182000
-confederates	183000
-confederates	196000
-confederates	151000
-confederates	130000
-confederates	255000
-confederates	215000
-confederates	118000
-confederates	120000
-confederates	124000
-confederates	124000
-confederates	74000
-confederates	80000
-confederates	330000
-confederates	151000
-confederates	168000
-confederates	116000
-confederates	113000
-confederates	32000
-confederates	312000
-confederates	9000
-confederates	70000
-confederates	621000
-confederates	1078000
-confederates	2471000
-confederates	45000
-confederates	45000
-confederates	62000
-confederates	72000
-confederates	41000
-confederates	43000
-confederates	43000
-confederates	43000
-confederates	42000
-confederates	114000
-confederates	57000
-confederates	65000
-confederates	10000
-confederates	53000
-confederates	43000
-confederates	46000
-confederates	54000
-confederates	66000
-confederates	74000
-confederates	97000
-confederates	60000
-confederates	58000
-confederates	55000
-confederates	58000
-confederates	72000
-confederates	57000
-confederates	73000
-confederates	53000
-confederates	74000
-confederates	56000
-confederates	57000
-confederates	52000
-confederates	77000
-confederates	76000
-confederates	66000
-confederates	63000
-confederates	53000
-confederates	67000
-confederates	33000
-confederates	48000
-confederates	63000
-confederates	98000
-confederates	38000
-confederates	47000
-confederates	50000
-confederates	32000
-confederates	2141000
-confederates	208000
-confederates	4274000
-confederates	216000
-confederates	115000
-confederates	50000
-confederates	44000
-confederates	45000
-confederates	40000
-confederates	49000
-confederates	47000
-confederates	42000
-confederates	44000
-confederates	43000
-confederates	76000
-confederates	62000
-confederates	59000
-confederates	58000
-confederates	60000
-confederates	63000
-confederates	61000
-confederates	59000
-confederates	52000
-confederates	57000
-confederates	59000
-confederates	51000
-confederates	55000
-confederates	57000
-confederates	39000
-confederates	57000
-confederates	98000
-confederates	49000
-confederates	68000
-confederates	54000
-confederates	73000
-confederates	71000
-confederates	51000
-confederates	64000
-confederates	52000
-confederates	43000
-confederates	10000
-confederates	52000
-confederates	60000
-confederates	61000
-confederates	57000
-confederates	58000
-confederates	79000
-confederates	28000
-confederates	58000
-confederates	88000
-confederates	1000
-confederates	16000
-confederates	23000
-confederates	23000
-confederates	23000
-confederates	23000
-confederates	23000
-confederates	156000
-confederates	26000
-confederates	115000
-confederates	98000
-confederates	106000
-confederates	107000
-confederates	108000
-confederates	90000
-confederates	95000
-confederates	96000
-confederates	109000
-confederates	102000
-confederates	108000
-confederates	100000
-confederates	91000
-confederates	97000
-confederates	104000
-confederates	95000
-confederates	89000
-confederates	89000
-confederates	94000
-confederates	89000
-confederates	97000
-confederates	101000
-confederates	169000
-confederates	84000
-confederates	94000
-confederates	125000
-confederates	84000
-confederates	91000
-confederates	1339000
-confederates	175000
-confederates	175000
-confederates	175000
-confederates	175000
-confederates	175000
-confederates	175000
-confederates	15000
-confederates	149000
-confederates	30000
-confederates	157000
-confederates	173000
-confederates	98000
-confederates	35000
-confederates	35000
-confederates	40000
-confederates	51000
-confederates	52000
-confederates	52000
-confederates	52000
-confederates	54000
-confederates	47000
-confederates	55000
-confederates	52000
-confederates	52000
-confederates	52000
-confederates	53000
-confederates	52000
-confederates	47000
-confederates	2000
-confederates	48000
-confederates	2000
-confederates	307000
-confederates	278000
-confederates	278000
-confederates	307000
-confederates	307000
-confederates	278000
-confederates	278000
-confederates	307000
-confederates	102000
-confederates	329000
-confederates	341000
-confederates	351000
-confederates	342000
-confederates	322000
-confederates	344000
-confederates	331000
-confederates	390000
-confederates	414000
-confederates	754000
-confederates	14315000
-confederates	323000
-confederates	1222000
-confederates	2509000
-confederates	350000
-confederates	60000
-confederates	55000
-confederates	55000
-confederates	60000
-confederates	60000
-confederates	60000
-confederates	60000
-confederates	55000
-confederates	197000
-confederates	211000
-confederates	249000
-confederates	267000
-confederates	264000
-confederates	271000
-confederates	382000
-confederates	325000
-confederates	291000
-confederates	293000
-confederates	182000
-confederates	267000
-confederates	265000
-confederates	317000
-confederates	279000
-confederates	656000
-confederates	134000
-confederates	349000
-confederates	699000
-confederates	335000
-confederates	352000
-confederates	289000
-confederates	662000
-confederates	240000
-confederates	530000
-confederates	524000
-confederates	241000
-confederates	361000
-confederates	347000
-confederates	593000
-confederates	4361000
-confederates	267000
-confederates	1147000
-confederates	1348000
-confederates	1360000
-confederates	1341000
-confederates	511000
-confederates	200000
-confederates	460000
-confederates	454000
-confederates	303000
-confederates	137000
-confederates	284000
-confederates	101000
-confederates	592000
-confederates	695000
-confederates	786000
-confederates	695000
-confederates	141000
-confederates	385000
-confederates	502000
-confederates	494000
-confederates	473000
-confederates	422000
-confederates	24000
-confederates	537000
-confederates	365000
-confederates	209000
-confederates	279000
-confederates	228000
-confederates	229000
-confederates	315000
-confederates	6000
-confederates	250000
-confederates	80000
-confederates	104000
-confederates	85000
-confederates	85000
-confederates	90000
-confederates	109000
-confederates	110000
-confederates	31000
-confederates	128000
-confederates	84000
-confederates	127000
-confederates	106000
-confederates	10875000
-confederates	157000
-confederates	165000
-confederates	169000
-confederates	168000
-confederates	168000
-confederates	152000
-confederates	28000
-confederates	2000
-confederates	3000
-confederates	18000
-confederates	34000
-confederates	57000
-confederates	38000
-confederates	28000
-confederates	117000
-confederates	58000
-confederates	57000
-confederates	87000
-confederates	95000
-confederates	74000
-confederates	135000
-confederates	256000
-confederates	59000
-confederates	92000
-confederates	73000
-confederates	155000
-confederates	73000
-confederates	72000
-confederates	90000
-confederates	81000
-confederates	55000
-confederates	72000
-confederates	22000
-confederates	93000
-confederates	84000
-confederates	97000
-confederates	73000
-confederates	71000
-confederates	69000
-confederates	74000
-confederates	78000
-confederates	66000
-confederates	63000
-confederates	85000
-confederates	103000
-confederates	96000
-confederates	58000
-confederates	73000
-confederates	59000
-confederates	59000
-confederates	56000
-confederates	76000
-confederates	68000
-confederates	62000
-confederates	74000
-confederates	65000
-confederates	82000
-confederates	87000
-confederates	89000
-confederates	2000
-confederates	107000
-confederates	3266000
-confederates	4380000
-confederates	139000
-confederates	20000
-confederates	95000
-confederates	135000
-confederates	125000
-confederates	77000
-confederates	106000
-confederates	32000
-confederates	876000
-confederates	294000
-confederates	72000
-confederates	163000
-confederates	42000
-confederates	2000
-confederates	15000
-confederates	20000
-confederates	20000
-confederates	93000
-confederates	93000
-confederates	93000
-confederates	91000
-confederates	84000
-confederates	84000
-confederates	84000
-confederates	140000
-confederates	145000
-confederates	121000
-confederates	93000
-confederates	98000
-confederates	93000
-confederates	101000
-confederates	93000
-confederates	93000
-confederates	92000
-confederates	143000
-confederates	93000
-confederates	104000
-confederates	110000
-confederates	23000
-confederates	55000
-confederates	107000
-confederates	93000
-confederates	92000
-confederates	95000
-confederates	10000
-confederates	90000
-confederates	13000
-confederates	92000
-confederates	483000
-confederates	90000
-confederates	150000
-confederates	175000
-confederates	156000
-confederates	118000
-confederates	157000
-confederates	35000
-confederates	159000
-confederates	166000
-confederates	156000
-confederates	828000
-confederates	417000
-confederates	775000
-confederates	2248000
-confederates	2118000
-confederates	272000
-confederates	478000
-confederates	3402000
-confederates	2021000
-confederates	297000
-confederates	313000
-confederates	1244000
-confederates	86000
-confederates	86000
-confederates	82000
-confederates	68000
-confederates	55000
-confederates	98000
-confederates	102000
-confederates	76000
-confederates	80000
-confederates	74000
-confederates	77000
-confederates	85000
-confederates	62000
-confederates	71000
-confederates	97000
-confederates	81000
-confederates	61000
-confederates	57000
-confederates	52000
-confederates	53000
-confederates	78000
-confederates	72000
-confederates	14000
-confederates	75000
-confederates	66000
-confederates	66000
-confederates	71000
-confederates	71000
-confederates	110000
-confederates	75000
-confederates	90000
-confederates	84000
-confederates	54000
-confederates	71000
-confederates	87000
-confederates	75000
-confederates	99000
-confederates	68000
-confederates	63000
-confederates	63000
-confederates	88000
-confederates	79000
-confederates	80000
-confederates	71000
-confederates	71000
-confederates	74000
-confederates	95000
-confederates	72000
-confederates	66000
-confederates	66000
-confederates	88000
-confederates	75000
-confederates	102000
-confederates	75000
-confederates	80000
-confederates	68000
-confederates	58000
-confederates	66000
-confederates	57000
-confederates	71000
-confederates	84000
-confederates	154000
-confederates	147000
-confederates	155000
-confederates	149000
-confederates	149000
-confederates	153000
-confederates	153000
-confederates	149000
-confederates	149000
-confederates	149000
-confederates	147000
-confederates	147000
-confederates	59000
-confederates	150000
-confederates	133000
-confederates	132000
-confederates	132000
-confederates	132000
-confederates	133000
-confederates	133000
-confederates	131000
-confederates	132000
-confederates	132000
-confederates	133000
-confederates	149000
-confederates	146000
-confederates	146000
-confederates	146000
-confederates	150000
-confederates	151000
-confederates	148000
-confederates	148000
-confederates	152000
-confederates	152000
-confederates	149000
-confederates	146000
-confederates	146000
-confederates	150000
-confederates	148000
-confederates	149000
-confederates	146000
-confederates	146000
-confederates	146000
-confederates	149000
-confederates	239000
-confederates	230000
-confederates	215000
-confederates	242000
-confederates	209000
-confederates	238000
-confederates	253000
-confederates	381000
-confederates	55000
-confederates	247000
-confederates	136000
-confederates	212000
-confederates	241000
-confederates	243000
-confederates	265000
-confederates	215000
-confederates	231000
-confederates	47000
-confederates	238000
-confederates	230000
-confederates	578000
-confederates	22000
-confederates	90000
-confederates	87000
-confederates	91000
-confederates	81000
-confederates	87000
-confederates	92000
-confederates	50000
-confederates	75000
-confederates	91000
-confederates	123000
-confederates	99000
-confederates	116000
-confederates	101000
-confederates	118000
-confederates	120000
-confederates	224000
-confederates	674000
-confederates	79000
-confederates	73000
-confederates	82000
-confederates	167000
-confederates	76000
-confederates	215000
-confederates	115000
-confederates	68000
-confederates	110000
-confederates	80000
-confederates	85000
-confederates	129000
-confederates	24000
-confederates	41000
-confederates	112000
-confederates	99000
-confederates	102000
-confederates	130000
-confederates	105000
-confederates	76000
-confederates	113000
-confederates	146000
-confederates	103000
-confederates	132000
-confederates	93000
-confederates	131000
-confederates	165000
-confederates	139000
-confederates	3000
-confederates	87000
-confederates	126000
-confederates	133000
-confederates	215000
-confederates	145000
-confederates	151000
-confederates	115000
-confederates	151000
-confederates	133000
-confederates	135000
-confederates	122000
-confederates	60000
-confederates	158000
-confederates	151000
-confederates	118000
-confederates	117000
-confederates	200000
-confederates	176000
-confederates	109000
-confederates	158000
-confederates	126000
-confederates	163000
-confederates	120000
-confederates	210000
-confederates	131000
-confederates	130000
-confederates	132000
-confederates	129000
-confederates	146000
-confederates	1000
-confederates	134000
-confederates	60000
-confederates	84000
-confederates	81000
-confederates	83000
-confederates	77000
-confederates	84000
-confederates	108000
-confederates	45000
-confederates	92000
-confederates	165000
-confederates	97000
-confederates	21000
-confederates	33000
-confederates	21000
-confederates	115000
-confederates	63000
-confederates	81000
-confederates	82000
-confederates	114000
-confederates	114000
-confederates	183000
-confederates	85000
-confederates	99000
-confederates	100000
-confederates	119000
-confederates	130000
-confederates	107000
-confederates	115000
-confederates	112000
-confederates	113000
-confederates	104000
-confederates	212000
-confederates	104000
-confederates	104000
-confederates	91000
-confederates	160000
-confederates	137000
-confederates	200000
-confederates	114000
-confederates	225000
-confederates	151000
-confederates	139000
-confederates	108000
-confederates	104000
-confederates	150000
-confederates	127000
-confederates	104000
-confederates	165000
-confederates	99000
-confederates	118000
-confederates	105000
-confederates	216000
-confederates	114000
-confederates	121000
-confederates	113000
-confederates	114000
-confederates	103000
-confederates	91000
-confederates	126000
-confederates	157000
-confederates	83000
-confederates	97000
-confederates	122000
-confederates	114000
-confederates	133000
-confederates	111000
-confederates	189000
-confederates	110000
-confederates	146000
-confederates	108000
-confederates	127000
-confederates	104000
-confederates	80000
-confederates	84000
-confederates	120000
-confederates	92000
-confederates	244000
-confederates	128000
-confederates	118000
-confederates	116000
-confederates	115000
-confederates	88000
-confederates	50000
-confederates	60000
-confederates	45000
-confederates	60000
-confederates	47000
-confederates	60000
-confederates	72000
-confederates	49000
-confederates	79000
-confederates	53000
-confederates	119000
-confederates	68000
-confederates	74000
-confederates	51000
-confederates	58000
-confederates	49000
-confederates	53000
-confederates	56000
-confederates	73000
-confederates	59000
-confederates	10000
-confederates	10000
-confederates	10000
-confederates	104000
-confederates	61000
-confederates	61000
-confederates	73000
-confederates	73000
-confederates	81000
-confederates	15000
-confederates	10000
-confederates	45000
-confederates	36000
-confederates	94000
-confederates	107000
-confederates	53000
-confederates	50000
-confederates	62000
-confederates	68000
-confederates	75000
-confederates	71000
-confederates	50000
-confederates	64000
-confederates	15000
-confederates	69000
-confederates	85000
-confederates	98000
-confederates	65000
-confederates	54000
-confederates	56000
-confederates	53000
-confederates	37000
-confederates	62000
-confederates	53000
-confederates	58000
-confederates	80000
-confederates	72000
-confederates	38000
-confederates	10000
-confederates	51000
-confederates	47000
-confederates	75000
-confederates	62000
-confederates	10000
-confederates	58000
-confederates	37000
-confederates	66000
-confederates	67000
-confederates	75000
-confederates	52000
-confederates	15000
-confederates	84000
-confederates	68000
-confederates	57000
-confederates	58000
-confederates	61000
-confederates	54000
-confederates	68000
-confederates	57000
-confederates	1000
-confederates	39000
-confederates	39000
-confederates	44000
-confederates	57000
-confederates	73000
-confederates	47000
-confederates	42000
-confederates	40000
-confederates	78000
-confederates	48000
-confederates	57000
-confederates	44000
-confederates	35000
-confederates	37000
-confederates	38000
-confederates	38000
-confederates	58000
-confederates	44000
-confederates	52000
-confederates	52000
-confederates	43000
-confederates	52000
-confederates	60000
-confederates	52000
-confederates	52000
-confederates	53000
-confederates	54000
-confederates	60000
-confederates	76000
-confederates	75000
-confederates	85000
-confederates	64000
-confederates	30000
-confederates	10000
-confederates	10000
-confederates	67000
-confederates	62000
-confederates	30000
-confederates	73000
-confederates	94000
-confederates	10000
-confederates	47000
-confederates	72000
-confederates	42000
-confederates	10000
-confederates	44000
-confederates	10000
-confederates	97000
-confederates	84000
-confederates	50000
-confederates	205000
-confederates	98000
-confederates	68000
-confederates	84000
-confederates	215000
-confederates	232000
-confederates	218000
-confederates	248000
-confederates	315000
-confederates	300000
-confederates	284000
-confederates	5087000
-confederates	80000
-confederates	72000
-confederates	1000
-confederates	532000
-confederates	209000
-confederates	88000
-confederates	216000
-confederates	407000
-confederates	262000
-confederates	20000
-confederates	78000
-confederates	32000
-confederates	13689000
-confederates	14657000
-confederates	1901000
-confederates	305000
-confederates	872000
-confederates	235000
-confederates	32000
-confederates	35000
-confederates	411000
-confederates	17000
-confederates	140000
-confederates	79000
-confederates	79000
-confederates	78000
-confederates	20000
-confederates	84000
-confederates	88000
-confederates	56000
-confederates	1724000
-confederates	256000
-confederates	605000
-confederates	1460000
-confederates	41000
-confederates	51000
-confederates	30000
-confederates	30000
-confederates	94000
-confederates	96000
-confederates	67000
-confederates	67000
-confederates	67000
-confederates	62000
-confederates	10000
-confederates	73000
-confederates	53000
-confederates	117000
-confederates	117000
-confederates	114000
-confederates	100000
-confederates	77000
-confederates	18000
-confederates	18000
-confederates	131000
-confederates	99000
-confederates	45000
-confederates	17000
-confederates	32000
-confederates	142000
-confederates	103000
-confederates	14000
-confederates	28000
-confederates	97000
-confederates	130000
-confederates	142000
-confederates	70000
-confederates	88000
-confederates	124000
-confederates	10000
-confederates	10000
-confederates	88000
-confederates	123000
-confederates	81000
-confederates	95000
-confederates	77000
-confederates	26000
-confederates	26000
-confederates	18000
-confederates	25000
-confederates	130000
-confederates	129000
-confederates	62000
-confederates	306000
-confederates	7065000
-confederates	236000
-confederates	2509000
-confederates	120000
-confederates	2926000
-confederates	29000
-confederates	4000
-confederates	1572000
-confederates	108000
-confederates	791000
-confederates	40000
-confederates	57000
-confederates	22000
-confederates	95000
-confederates	10000
-confederates	74000
-confederates	53000
-confederates	49000
-confederates	67000
-confederates	75000
-confederates	116000
-confederates	4149000
-confederates	84000
-confederates	57000
-confederates	84000
-confederates	47000
-confederates	49000
-confederates	545000
-confederates	22000
-confederates	317000
-confederates	363000
-confederates	142000
-confederates	63000
-confederates	50000
-confederates	56000
-confederates	57000
-confederates	52000
-confederates	48000
-confederates	49000
-confederates	15000
-confederates	4357000
-confederates	4725000
-confederates	70000
-confederates	79000
-confederates	125000
-confederates	90000
-confederates	104000
-confederates	111000
-confederates	122000
-confederates	146000
-confederates	105000
-confederates	125000
-confederates	121000
-confederates	83000
-confederates	134000
-confederates	70000
-confederates	158000
-confederates	93000
-confederates	146000
-confederates	130000
-confederates	71000
-confederates	117000
-confederates	117000
-confederates	93000
-confederates	111000
-confederates	125000
-confederates	117000
-confederates	166000
-confederates	110000
-confederates	123000
-confederates	112000
-confederates	91000
-confederates	135000
-confederates	124000
-confederates	116000
-confederates	126000
-confederates	58000
-confederates	129000
-confederates	99000
-confederates	159000
-confederates	160000
-confederates	92000
-confederates	108000
-confederates	96000
-confederates	119000
-confederates	92000
-confederates	82000
-confederates	185000
-confederates	130000
-confederates	145000
-confederates	130000
-confederates	73000
-confederates	111000
-confederates	94000
-confederates	86000
-confederates	67000
-confederates	110000
-confederates	68000
-confederates	30000
-confederates	123000
-confederates	99000
-confederates	50000
-confederates	78000
-confederates	104000
-confederates	90000
-confederates	144000
-confederates	114000
-confederates	98000
-confederates	103000
-confederates	97000
-confederates	98000
-confederates	140000
-confederates	96000
-confederates	99000
-confederates	100000
-confederates	96000
-confederates	104000
-confederates	109000
-confederates	103000
-confederates	132000
-confederates	114000
-confederates	128000
-confederates	108000
-confederates	108000
-confederates	104000
-confederates	108000
-confederates	114000
-confederates	109000
-confederates	93000
-confederates	107000
-confederates	107000
-confederates	100000
-confederates	103000
-confederates	116000
-confederates	128000
-confederates	94000
-confederates	91000
-confederates	92000
-confederates	122000
-confederates	34878000
-confederates	133000
-confederates	143000
-confederates	146000
-confederates	205000
-confederates	252000
-confederates	146000
-confederates	243000
-confederates	218000
-confederates	157000
-confederates	222000
-confederates	159000
-confederates	111000
-confederates	45000
-confederates	190000
-confederates	212000
-confederates	226000
-confederates	98000
-confederates	76000
-confederates	153000
-confederates	133000
-confederates	227000
-confederates	207000
-confederates	163000
-confederates	123000
-confederates	25000
-confederates	124000
-confederates	25000
-confederates	127000
-confederates	185000
-confederates	151000
-confederates	30000
-confederates	30000
-confederates	227000
-confederates	2000
-confederates	138000
-confederates	137000
-confederates	140000
-confederates	25000
-confederates	25000
-confederates	520000
-confederates	579000
-confederates	530000
-confederates	75000
-confederates	342000
-confederates	310000
-confederates	448000
-confederates	387000
-confederates	39000
-confederates	246000
-confederates	260000
-confederates	200000
-confederates	727000
-confederates	2000
-confederates	390000
-confederates	395000
-confederates	297000
-confederates	290000
-confederates	330000
-confederates	285000
-confederates	291000
-confederates	353000
-confederates	2000
-confederates	353000
-confederates	2000
-confederates	186000
-confederates	308000
-confederates	441000
-confederates	535000
-confederates	540000
-confederates	541000
-confederates	353000
-confederates	346000
-confederates	342000
-confederates	386000
-confederates	369000
-confederates	406000
-confederates	441000
-confederates	303000
-confederates	302000
-confederates	319000
-confederates	344000
-confederates	312000
-confederates	323000
-confederates	238000
-confederates	319000
-confederates	280000
-confederates	303000
-confederates	391000
-confederates	314000
-confederates	291000
-confederates	262000
-confederates	297000
-confederates	383000
-confederates	555000
-confederates	85000
-confederates	345000
-confederates	333000
-confederates	299000
-confederates	340000
-confederates	301000
-confederates	391000
-confederates	377000
-confederates	355000
-confederates	334000
-confederates	299000
-confederates	332000
-confederates	318000
-confederates	315000
-confederates	333000
-confederates	316000
-confederates	322000
-confederates	399000
-confederates	225000
-confederates	230000
-confederates	243000
-confederates	234000
-confederates	223000
-confederates	221000
-confederates	219000
-confederates	223000
-confederates	212000
-confederates	219000
-confederates	358000
-confederates	250000
-confederates	302000
-confederates	294000
-confederates	323000
-confederates	304000
-confederates	250000
-confederates	263000
-confederates	283000
-confederates	309000
-confederates	278000
-confederates	303000
-confederates	295000
-confederates	391000
-confederates	6000
-confederates	22000
-confederates	18000
-confederates	520000
-confederates	342000
-confederates	199000
-confederates	254000
-confederates	229000
-confederates	253000
-confederates	5800000
-confederates	196000
-confederates	328000
-confederates	313000
-confederates	295000
-confederates	357000
-confederates	1928000
-confederates	197000
-confederates	145000
-confederates	145000
-confederates	151000
-confederates	145000
-confederates	151000
-confederates	151000
-confederates	157000
-confederates	151000
-confederates	145000
-confederates	151000
-confederates	145000
-confederates	145000
-confederates	744000
-confederates	272000
-confederates	246000
-confederates	231000
-confederates	1444000
-confederates	1088000
-confederates	748000
-confederates	257000
-confederates	371000
-confederates	287000
-confederates	224000
-confederates	286000
-confederates	318000
-confederates	303000
-confederates	271000
-confederates	226000
-confederates	280000
-confederates	193000
-confederates	252000
-confederates	297000
-confederates	248000
-confederates	367000
-confederates	281000
-confederates	489000
-confederates	241000
-confederates	227000
-confederates	256000
-confederates	271000
-confederates	248000
-confederates	241000
-confederates	245000
-confederates	245000
-confederates	269000
-confederates	265000
-confederates	248000
-confederates	348000
-confederates	215000
-confederates	209000
-confederates	311000
-confederates	311000
-confederates	287000
-confederates	319000
-confederates	314000
-confederates	339000
-confederates	287000
-confederates	315000
-confederates	200000
-confederates	268000
-confederates	262000
-confederates	249000
-confederates	265000
-confederates	284000
-confederates	273000
-confederates	258000
-confederates	332000
-confederates	254000
-confederates	237000
-confederates	215000
-confederates	239000
-confederates	196000
-confederates	205000
-confederates	249000
-confederates	2101000
-confederates	215000
-confederates	329000
-confederates	291000
-confederates	188000
-confederates	164000
-confederates	269000
-confederates	300000
-confederates	257000
-confederates	254000
-confederates	250000
-confederates	239000
-confederates	226000
-confederates	213000
-confederates	194000
-confederates	257000
-confederates	182000
-confederates	248000
-confederates	219000
-confederates	183000
-confederates	229000
-confederates	209000
-confederates	244000
-confederates	272000
-confederates	187000
-confederates	188000
-confederates	255000
-confederates	281000
-confederates	208000
-confederates	145000
-confederates	276000
-confederates	285000
-confederates	227000
-confederates	230000
-confederates	255000
-confederates	190000
-confederates	170000
-confederates	320000
-confederates	190000
-confederates	190000
-confederates	245000
-confederates	186000
-confederates	263000
-confederates	166000
-confederates	212000
-confederates	154000
-confederates	166000
-confederates	179000
-confederates	304000
-confederates	304000
-confederates	245000
-confederates	183000
-confederates	233000
-confederates	382000
-confederates	172000
-confederates	50000
-confederates	281000
-confederates	256000
-confederates	236000
-confederates	158000
-confederates	234000
-confederates	233000
-confederates	172000
-confederates	222000
-confederates	191000
-confederates	173000
-confederates	257000
-confederates	255000
-confederates	163000
-confederates	161000
-confederates	165000
-confederates	414000
-confederates	232000
-confederates	175000
-confederates	177000
-confederates	188000
-confederates	196000
-confederates	187000
-confederates	179000
-confederates	174000
-confederates	175000
-confederates	187000
-confederates	570000
-confederates	196000
-confederates	301000
-confederates	158000
-confederates	171000
-confederates	569000
-confederates	354000
-confederates	217000
-confederates	217000
-confederates	148000
-confederates	183000
-confederates	269000
-confederates	253000
-confederates	261000
-confederates	211000
-confederates	182000
-confederates	176000
-confederates	188000
-confederates	240000
-confederates	300000
-confederates	404000
-confederates	361000
-confederates	298000
-confederates	353000
-confederates	199000
-confederates	162000
-confederates	218000
-confederates	190000
-confederates	245000
-confederates	153000
-confederates	212000
-confederates	163000
-confederates	177000
-confederates	280000
-confederates	975000
-confederates	1837000
-confederates	1103000
-confederates	1133000
-confederates	1346000
-confederates	213000
-confederates	248000
-confederates	1393000
-confederates	138000
-confederates	140000
-confederates	866000
-confederates	78000
-confederates	78000
-confederates	85000
-confederates	79000
-confederates	66000
-confederates	148000
-confederates	85000
-confederates	1165000
-confederates	1301000
-confederates	787000
-confederates	1343000
-confederates	265000
-confederates	848000
-confederates	892000
-confederates	2111000
-confederates	104000
-confederates	561000
-confederates	1000
-confederates	219000
-confederates	235000
-confederates	233000
-confederates	250000
-confederates	228000
-confederates	261000
-confederates	243000
-confederates	166000
-confederates	144000
-confederates	187000
-confederates	226000
-confederates	223000
-confederates	197000
-confederates	239000
-confederates	217000
-confederates	148000
-confederates	138000
-confederates	1074000
-confederates	570000
-confederates	1401000
-confederates	711000
-confederates	471000
-confederates	410000
-confederates	158000
-confederates	1004000
-confederates	876000
-confederates	422000
-confederates	477000
-confederates	252000
-confederates	224000
-confederates	180000
-confederates	227000
-confederates	211000
-confederates	217000
-confederates	184000
-confederates	1003000
-confederates	353000
-confederates	70000
-confederates	337000
-confederates	716000
-confederates	352000
-confederates	330000
-confederates	675000
-confederates	960000
-confederates	2000
-confederates	605000
-confederates	152000
-confederates	182000
-confederates	211000
-confederates	224000
-confederates	172000
-confederates	255000
-confederates	80000
-confederates	177000
-confederates	174000
-confederates	200000
-confederates	615000
-confederates	259000
-confederates	121000
-confederates	316000
-confederates	251000
-confederates	582000
-confederates	475000
-confederates	232000
-confederates	70000
-confederates	1661000
-confederates	278000
-confederates	2787000
-confederates	242000
-confederates	276000
-confederates	282000
-confederates	204000
-confederates	802000
-confederates	248000
-confederates	198000
-confederates	906000
-confederates	162000
-confederates	162000
-confederates	152000
-confederates	161000
-confederates	236000
-confederates	221000
-confederates	295000
-confederates	203000
-confederates	189000
-confederates	218000
-confederates	209000
-confederates	170000
-confederates	193000
-confederates	212000
-confederates	210000
-confederates	186000
-confederates	204000
-confederates	134000
-confederates	159000
-confederates	145000
-confederates	159000
-confederates	145000
-confederates	143000
-confederates	168000
-confederates	201000
-confederates	282000
-confederates	229000
-confederates	196000
-confederates	243000
-confederates	221000
-confederates	275000
-confederates	199000
-confederates	207000
-confederates	232000
-confederates	214000
-confederates	245000
-confederates	320000
-confederates	230000
-confederates	265000
-confederates	176000
-confederates	168000
-confederates	305000
-confederates	196000
-confederates	373000
-confederates	232000
-confederates	197000
-confederates	224000
-confederates	185000
-confederates	214000
-confederates	228000
-confederates	272000
-confederates	291000
-confederates	230000
-confederates	221000
-confederates	226000
-confederates	326000
-confederates	259000
-confederates	302000
-confederates	245000
-confederates	1656000
-confederates	198000
-confederates	204000
-confederates	202000
-confederates	205000
-confederates	206000
-confederates	7615000
-confederates	368000
-confederates	239000
-confederates	209000
-confederates	216000
-confederates	305000
-confederates	193000
-confederates	178000
-confederates	212000
-confederates	324000
-confederates	221000
-confederates	479000
-confederates	382000
-confederates	222000
-confederates	299000
-confederates	223000
-confederates	226000
-confederates	273000
-confederates	255000
-confederates	185000
-confederates	193000
-confederates	185000
-confederates	293000
-confederates	238000
-confederates	389000
-confederates	369000
-confederates	189000
-confederates	306000
-confederates	726000
-confederates	1486000
-confederates	600000
-confederates	1261000
-confederates	1785000
-confederates	674000
-confederates	161000
-confederates	159000
-confederates	129000
-confederates	205000
-confederates	189000
-confederates	46000
-confederates	63000
-confederates	7498000
-confederates	545000
-confederates	4424000
-confederates	2000
-confederates	4000000
-confederates	25000
-confederates	25000
-confederates	25000
-confederates	25000
-confederates	31000
-confederates	22000
-confederates	235000
-confederates	232000
-confederates	145000
-confederates	28000
-confederates	25000
-confederates	25000
-confederates	25000
-confederates	25000
-confederates	132000
-confederates	160000
-confederates	194000
-confederates	137000
-confederates	93000
-confederates	159000
-confederates	22000
-confederates	19000
-confederates	19000
-confederates	255000
-confederates	255000
-confederates	25000
-confederates	219000
-confederates	222000
-confederates	151000
-confederates	135000
-confederates	25000
-confederates	78000
-confederates	84000
-confederates	208000
-confederates	31000
-confederates	31000
-confederates	93000
-confederates	72000
-confederates	25000
-confederates	25000
-confederates	31000
-confederates	1397000
-confederates	418000
-confederates	141000
-confederates	126000
-confederates	25000
-confederates	25000
-confederates	109000
-confederates	362000
-confederates	107000
-confederates	103000
-confederates	157000
-confederates	25000
-confederates	84000
-confederates	25000
-confederates	140000
-confederates	155000
-confederates	34000
-confederates	14000
-confederates	90000
-confederates	25000
-confederates	25000
-confederates	79000
-confederates	83000
-confederates	135000
-confederates	10000
-confederates	122000
-confederates	114000
-confederates	41000
-confederates	74000
-confederates	10000
-confederates	10000
-confederates	35000
-confederates	10000
-confederates	15000
-confederates	80000
-confederates	30000
-confederates	10000
-confederates	101000
-confederates	86000
-confederates	89000
-confederates	196000
-confederates	32000
-confederates	28000
-confederates	91000
-confederates	10000
-confederates	10000
-confederates	92000
-confederates	94000
-confederates	61000
-confederates	85000
-confederates	88000
-confederates	133000
-confederates	35000
-confederates	89000
-confederates	103000
-confederates	87000
-confederates	107000
-confederates	10000
-confederates	65000
-confederates	63000
-confederates	59000
-confederates	61000
-confederates	59000
-confederates	58000
-confederates	59000
-confederates	94000
-confederates	77000
-confederates	55000
-confederates	56000
-confederates	55000
-confederates	58000
-confederates	70000
-confederates	72000
-confederates	107000
-confederates	105000
-confederates	97000
-confederates	103000
-confederates	92000
-confederates	113000
-confederates	114000
-confederates	74000
-confederates	70000
-confederates	98000
-confederates	101000
-confederates	79000
-confederates	89000
-confederates	3000
-confederates	1000
-confederates	1000
-confederates	18000
-confederates	26000
-confederates	2000
-confederates	3000
-confederates	10000
-confederates	11000
-confederates	13000
-confederates	8000
-confederates	3000
-confederates	6000
-confederates	9000
-confederates	2000
-confederates	3000
-confederates	11000
-confederates	26000
-confederates	25000
-confederates	3000
-confederates	276000
-confederates	40000
-confederates	20250000
-confederates	10626000
-confederates	162000
-confederates	245000
-confederates	162000
-confederates	98000
-confederates	98000
-confederates	98000
-confederates	57000
-confederates	157000
-confederates	157000
-confederates	157000
-confederates	154000
-confederates	154000
-confederates	146000
-confederates	146000
-confederates	152000
-confederates	146000
-confederates	146000
-confederates	221000
-confederates	182000
-confederates	221000
-confederates	188000
-confederates	192000
-confederates	184000
-confederates	185000
-confederates	191000
-confederates	187000
-confederates	219000
-confederates	55000
-confederates	47000
-confederates	97000
-confederates	36000
-confederates	115000
-confederates	323000
-confederates	100000
-confederates	145000
-confederates	109000
-confederates	2343000
-confederates	424000
-confederates	72000
-confederates	143000
-confederates	47000
-confederates	66000
-confederates	249000
-confederates	120000
-confederates	491000
-confederates	494000
-confederates	364000
-confederates	50000
-confederates	29000
-confederates	32000
-confederates	54000
-confederates	5000
-confederates	50000
-confederates	84000
-confederates	38000
-confederates	54000
-confederates	101000
-confederates	101000
-confederates	98000
-confederates	68000
-confederates	45000
-confederates	95000
-confederates	275000
-confederates	93000
-confederates	841000
-confederates	177000
-confederates	9425000
-confederates	6368000
-confederates	10389000
-confederates	16505000
-confederates	12318000
-confederates	50115000
-confederates	1620000
-confederates	2306000
-confederates	73000
-confederates	63000
-confederates	353000
-confederates	47000
-confederates	102000
-confederates	96000
-confederates	144000
-confederates	202000
-confederates	298000
-confederates	24000
-confederates	2520000
-confederates	141000
-confederates	427000
-confederates	129000
-confederates	55000
-confederates	2000
-confederates	3500000
-confederates	284000
-confederates	179000
-confederates	103000
-confederates	133000
-confederates	145000
-confederates	168000
-confederates	167000
-confederates	85000
-confederates	139000
-confederates	152000
-confederates	131000
-confederates	170000
-confederates	1000
-confederates	161000
-confederates	163000
-confederates	203000
-confederates	89000
-confederates	91000
-confederates	202000
-confederates	240000
-confederates	136000
-confederates	137000
-confederates	129000
-confederates	35000
-confederates	281000
-confederates	191000
-confederates	256000
-confederates	192000
-confederates	176000
-confederates	196000
-confederates	179000
-confederates	173000
-confederates	176000
-confederates	160000
-confederates	200000
-confederates	211000
-confederates	235000
-confederates	177000
-confederates	284000
-confederates	330000
-confederates	156000
-confederates	183000
-confederates	124000
-confederates	161000
-confederates	223000
-confederates	224000
-confederates	310000
-confederates	290000
-confederates	227000
-confederates	161000
-confederates	214000
-confederates	212000
-confederates	309000
-confederates	306000
-confederates	281000
-confederates	208000
-confederates	232000
-confederates	223000
-confederates	220000
-confederates	294000
-confederates	100000
-confederates	197000
-confederates	155000
-confederates	145000
-confederates	264000
-confederates	205000
-confederates	196000
-confederates	178000
-confederates	152000
-confederates	162000
-confederates	160000
-confederates	144000
-confederates	154000
-confederates	167000
-confederates	155000
-confederates	183000
-confederates	246000
-confederates	213000
-confederates	164000
-confederates	217000
-confederates	191000
-confederates	218000
-confederates	212000
-confederates	193000
-confederates	218000
-confederates	191000
-confederates	199000
-confederates	25000
-confederates	236000
-confederates	158000
-confederates	200000
-confederates	155000
-confederates	194000
-confederates	221000
-confederates	183000
-confederates	143000
-confederates	360000
-confederates	139000
-confederates	157000
-confederates	153000
-confederates	114000
-confederates	155000
-confederates	139000
-confederates	179000
-confederates	271000
-confederates	261000
-confederates	145000
-confederates	162000
-confederates	195000
-confederates	121000
-confederates	220000
-confederates	233000
-confederates	90000
-confederates	205000
-confederates	335000
-confederates	138000
-confederates	1350000
-confederates	107000
-confederates	114000
-confederates	127000
-confederates	108000
-confederates	117000
-confederates	126000
-confederates	115000
-confederates	86000
-confederates	120000
-confederates	122000
-confederates	142000
-confederates	90000
-confederates	148000
-confederates	114000
-confederates	103000
-confederates	160000
-confederates	125000
-confederates	115000
-confederates	131000
-confederates	135000
-confederates	136000
-confederates	140000
-confederates	123000
-confederates	136000
-confederates	111000
-confederates	142000
-confederates	123000
-confederates	149000
-confederates	155000
-confederates	136000
-confederates	127000
-confederates	123000
-confederates	113000
-confederates	134000
-confederates	136000
-confederates	118000
-confederates	137000
-confederates	150000
-confederates	136000
-confederates	133000
-confederates	105000
-confederates	124000
-confederates	99000
-confederates	105000
-confederates	90000
-confederates	93000
-confederates	92000
-confederates	104000
-confederates	90000
-confederates	102000
-confederates	79000
-confederates	384000
-confederates	164000
-confederates	174000
-confederates	174000
-confederates	195000
-confederates	197000
-confederates	253000
-confederates	436000
-confederates	308000
-confederates	303000
-confederates	289000
-confederates	212000
-confederates	161000
-confederates	169000
-confederates	192000
-confederates	140000
-confederates	144000
-confederates	160000
-confederates	156000
-confederates	48000
-confederates	108000
-confederates	245000
-confederates	264000
-confederates	211000
-confederates	207000
-confederates	332000
-confederates	222000
-confederates	213000
-confederates	214000
-confederates	274000
-confederates	473000
-confederates	473000
-confederates	2000
-confederates	384000
-confederates	384000
-confederates	370000
-confederates	354000
-confederates	477000
-confederates	315000
-confederates	379000
-confederates	330000
-confederates	336000
-confederates	339000
-confederates	372000
-confederates	338000
-confederates	319000
-confederates	307000
-confederates	285000
-confederates	13000
-confederates	174000
-confederates	250000
-confederates	173000
-confederates	177000
-confederates	261000
-confederates	251000
-confederates	229000
-confederates	227000
-confederates	198000
-confederates	191000
-confederates	256000
-confederates	261000
-confederates	175000
-confederates	243000
-confederates	199000
-confederates	119000
-confederates	225000
-confederates	224000
-confederates	311000
-confederates	294000
-confederates	253000
-confederates	433000
-confederates	298000
-confederates	339000
-confederates	2000
-confederates	325000
-confederates	321000
-confederates	302000
-confederates	353000
-confederates	468000
-confederates	356000
-confederates	399000
-confederates	276000
-confederates	292000
-confederates	278000
-confederates	374000
-confederates	422000
-confederates	212000
-confederates	291000
-confederates	290000
-confederates	25000
-confederates	44000
-confederates	15000
-confederates	83000
-confederates	15000
-confederates	66000
-confederates	75000
-confederates	74000
-confederates	102000
-confederates	73000
-confederates	140000
-confederates	119000
-confederates	21000
-confederates	88000
-confederates	90000
-confederates	53000
-confederates	84000
-confederates	16000
-confederates	51000
-confederates	76000
-confederates	79000
-confederates	84000
-confederates	79000
-confederates	70000
-confederates	44000
-confederates	28000
-confederates	65000
-confederates	72000
-confederates	77000
-confederates	282000
-confederates	198000
-confederates	229000
-confederates	241000
-confederates	208000
-confederates	240000
-confederates	235000
-confederates	216000
-confederates	281000
-confederates	211000
-confederates	203000
-confederates	268000
-confederates	160000
-confederates	245000
-confederates	204000
-confederates	18000
-confederates	210000
-confederates	292000
-confederates	319000
-confederates	215000
-confederates	311000
-confederates	214000
-confederates	260000
-confederates	251000
-confederates	257000
-confederates	203000
-confederates	230000
-confederates	228000
-confederates	238000
-confederates	9000
-confederates	135000
-confederates	33000
-confederates	150000
-confederates	70000
-confederates	9000
-confederates	9000
-confederates	19000
-confederates	9000
-confederates	9000
-confederates	11000
-confederates	9000
-confederates	15000
-confederates	141000
-confederates	140000
-confederates	140000
-confederates	140000
-confederates	24000
-confederates	9000
-confederates	122000
-confederates	22000
-confederates	213000
-confederates	208000
-confederates	243000
-confederates	266000
-confederates	256000
-confederates	293000
-confederates	907000
-confederates	1493000
-confederates	3090000
-confederates	382000
-confederates	200000
-confederates	200000
-confederates	184000
-confederates	820000
-confederates	2012000
-confederates	5000
-confederates	1139000
-confederates	1029000
-confederates	413000
-confederates	778000
-confederates	600000
-confederates	179000
-confederates	427000
-confederates	532000
-confederates	63000
-confederates	59000
-confederates	59000
-confederates	17000
-confederates	59000
-confederates	17000
-confederates	17000
-confederates	11000
-confederates	193000
-confederates	157000
-confederates	201000
-confederates	111000
-confederates	157000
-confederates	32000
-confederates	30000
-confederates	178000
-confederates	201000
-confederates	530000
-confederates	60000
-confederates	58000
-confederates	122000
-confederates	159000
-confederates	151000
-confederates	105000
-confederates	149000
-confederates	148000
-confederates	106000
-confederates	124000
-confederates	75000
-confederates	78000
-confederates	103000
-confederates	156000
-confederates	157000
-confederates	106000
-confederates	54000
-confederates	94000
-confederates	94000
-confederates	94000
-confederates	94000
-confederates	95000
-confederates	92000
-confederates	93000
-confederates	93000
-confederates	160000
-confederates	106000
-confederates	96000
-confederates	106000
-confederates	95000
-confederates	96000
-confederates	160000
-confederates	96000
-confederates	178000
-confederates	126000
-confederates	121000
-confederates	155000
-confederates	140000
-confederates	319000
-confederates	150000
-confederates	154000
-confederates	146000
-confederates	146000
-confederates	146000
-confederates	149000
-confederates	150000
-confederates	148000
-confederates	147000
-confederates	149000
-confederates	147000
-confederates	147000
-confederates	147000
-confederates	149000
-confederates	147000
-confederates	147000
-confederates	153000
-confederates	150000
-confederates	147000
-confederates	147000
-confederates	147000
-confederates	149000
-confederates	147000
-confederates	148000
-confederates	147000
-confederates	153000
-confederates	150000
-confederates	148000
-confederates	149000
-confederates	146000
-confederates	146000
-confederates	146000
-confederates	146000
-confederates	146000
-confederates	148000
-confederates	148000
-confederates	149000
-confederates	147000
-confederates	219000
-confederates	204000
-confederates	177000
-confederates	206000
-confederates	215000
-confederates	197000
-confederates	180000
-confederates	180000
-confederates	178000
-confederates	482000
-confederates	630000
-confederates	540000
-confederates	455000
-confederates	518000
-confederates	395000
-confederates	635000
-confederates	480000
-confederates	554000
-confederates	457000
-confederates	669000
-confederates	474000
-confederates	478000
-confederates	430000
-confederates	449000
-confederates	388000
-confederates	545000
-confederates	482000
-confederates	480000
-confederates	481000
-confederates	471000
-confederates	515000
-confederates	498000
-confederates	492000
-confederates	465000
-confederates	560000
-confederates	399000
-confederates	628000
-confederates	479000
-confederates	518000
-confederates	483000
-confederates	628000
-confederates	579000
-confederates	410000
-confederates	364000
-confederates	570000
-confederates	577000
-confederates	397000
-confederates	643000
-confederates	514000
-confederates	561000
-confederates	501000
-confederates	403000
-confederates	534000
-confederates	580000
-confederates	498000
-confederates	499000
-confederates	494000
-confederates	485000
-confederates	497000
-confederates	510000
-confederates	492000
-confederates	611000
-confederates	655000
-confederates	721000
-confederates	625000
-confederates	587000
-confederates	582000
-confederates	696000
-confederates	1056000
-confederates	583000
-confederates	493000
-confederates	488000
-confederates	549000
-confederates	460000
-confederates	447000
-confederates	698000
-confederates	576000
-confederates	681000
-confederates	495000
-confederates	647000
-confederates	540000
-confederates	710000
-confederates	649000
-confederates	666000
-confederates	753000
-confederates	437000
-confederates	666000
-confederates	615000
-confederates	519000
-confederates	427000
-confederates	694000
-confederates	705000
-confederates	697000
-confederates	655000
-confederates	2000
-confederates	115000
-confederates	19000
-confederates	29000
-confederates	122000
-confederates	100000
-confederates	30000
-confederates	112000
-confederates	132000
-confederates	92000
-confederates	85000
-confederates	92000
-confederates	57000
-confederates	150000
-confederates	162000
-confederates	1000
-confederates	127000
-confederates	97000
-confederates	111000
-confederates	155000
-confederates	96000
-confederates	101000
-confederates	124000
-confederates	109000
-confederates	97000
-confederates	102000
-confederates	118000
-confederates	115000
-confederates	102000
-confederates	110000
-confederates	109000
-confederates	147000
-confederates	99000
-confederates	3497000
-confederates	97000
-confederates	94000
-confederates	92000
-confederates	91000
-confederates	114000
-confederates	120000
-confederates	30000
-confederates	30000
-confederates	25000
-confederates	105000
-confederates	223000
-confederates	99000
-confederates	107000
-confederates	160000
-confederates	144000
-confederates	107000
-confederates	153000
-confederates	73000
-confederates	84000
-confederates	77000
-confederates	75000
-confederates	6000
-confederates	96000
-confederates	35000
-confederates	35000
-confederates	20000
-confederates	11000
-confederates	137000
-confederates	64000
-confederates	71000
-confederates	76000
-confederates	91000
-confederates	77000
-confederates	81000
-confederates	85000
-confederates	78000
-confederates	84000
-confederates	114000
-confederates	126000
-confederates	24000
-confederates	86000
-confederates	78000
-confederates	99000
-confederates	83000
-confederates	86000
-confederates	116000
-confederates	78000
-confederates	95000
-confederates	118000
-confederates	84000
-confederates	559000
-confederates	106000
-confederates	143000
-confederates	117000
-confederates	116000
-confederates	109000
-confederates	94000
-confederates	76000
-confederates	91000
-confederates	87000
-confederates	116000
-confederates	112000
-confederates	114000
-confederates	63000
-confederates	106000
-confederates	112000
-confederates	186000
-confederates	118000
-confederates	156000
-confederates	163000
-confederates	199000
-confederates	10000
-confederates	140000
-confederates	111000
-confederates	115000
-confederates	151000
-confederates	89000
-confederates	91000
-confederates	84000
-confederates	94000
-confederates	64000
-confederates	155000
-confederates	87000
-confederates	138000
-confederates	137000
-confederates	178000
-confederates	135000
-confederates	120000
-confederates	106000
-confederates	126000
-confederates	120000
-confederates	78000
-confederates	77000
-confederates	101000
-confederates	77000
-confederates	125000
-confederates	101000
-confederates	99000
-confederates	128000
-confederates	110000
-confederates	72000
-confederates	61000
-confederates	76000
-confederates	96000
-confederates	122000
-confederates	76000
-confederates	75000
-confederates	90000
-confederates	114000
-confederates	106000
-confederates	44000
-confederates	46000
-confederates	5000
-confederates	133000
-confederates	872000
-confederates	28000
-confederates	84000
-confederates	87000
-confederates	99000
-confederates	67000
-confederates	66000
-confederates	66000
-confederates	69000
-confederates	125000
-confederates	97000
-confederates	98000
-confederates	40000
-confederates	71000
-confederates	67000
-confederates	59000
-confederates	56000
-confederates	65000
-confederates	20000
-confederates	10000
-confederates	74000
-confederates	53000
-confederates	89000
-confederates	77000
-confederates	49000
-confederates	48000
-confederates	66000
-confederates	74000
-confederates	74000
-confederates	55000
-confederates	53000
-confederates	44000
-confederates	59000
-confederates	77000
-confederates	10000
-confederates	79000
-confederates	48000
-confederates	42000
-confederates	39000
-confederates	40000
-confederates	42000
-confederates	60000
-confederates	41000
-confederates	54000
-confederates	58000
-confederates	52000
-confederates	52000
-confederates	62000
-confederates	51000
-confederates	51000
-confederates	64000
-confederates	51000
-confederates	87000
-confederates	60000
-confederates	63000
-confederates	42000
-confederates	52000
-confederates	51000
-confederates	53000
-confederates	53000
-confederates	60000
-confederates	53000
-confederates	89000
-confederates	78000
-confederates	50000
-confederates	53000
-confederates	53000
-confederates	69000
-confederates	60000
-confederates	56000
-confederates	53000
-confederates	47000
-confederates	76000
-confederates	58000
-confederates	61000
-confederates	56000
-confederates	50000
-confederates	56000
-confederates	52000
-confederates	116000
-confederates	20000
-confederates	86000
-confederates	53000
-confederates	46000
-confederates	48000
-confederates	53000
-confederates	48000
-confederates	39000
-confederates	68000
-confederates	61000
-confederates	94000
-confederates	61000
-confederates	56000
-confederates	31000
-confederates	52000
-confederates	44000
-confederates	39000
-confederates	52000
-confederates	56000
-confederates	45000
-confederates	39000
-confederates	52000
-confederates	40000
-confederates	56000
-confederates	60000
-confederates	38000
-confederates	57000
-confederates	47000
-confederates	53000
-confederates	53000
-confederates	66000
-confederates	64000
-confederates	53000
-confederates	53000
-confederates	53000
-confederates	101000
-confederates	98000
-confederates	107000
-confederates	197000
-confederates	85000
-confederates	69000
-confederates	68000
-confederates	90000
-confederates	114000
-confederates	72000
-confederates	80000
-confederates	150000
-confederates	102000
+type	total_value
+civil rights leader	1539000
+civil rights leader	63000
+civil rights leader	54000
+civil rights leader	75000
+civil rights leader	59000
+civil rights leader	63000
+civil rights leader	60000
+civil rights leader	63000
+civil rights leader	62000
+civil rights leader	78000
+civil rights leader	80000
+civil rights leader	62000
+civil rights leader	105000
+civil rights leader	65000
+civil rights leader	54000
+civil rights leader	48000
+civil rights leader	74000
+civil rights leader	52000
+civil rights leader	90000
+civil rights leader	41000
+civil rights leader	50000
+civil rights leader	65000
+civil rights leader	45000
+civil rights leader	43000
+civil rights leader	41000
+civil rights leader	40000
+civil rights leader	10000
+civil rights leader	60000
+civil rights leader	64000
+civil rights leader	45000
+civil rights leader	42000
+civil rights leader	42000
+civil rights leader	58000
+civil rights leader	53000
+civil rights leader	45000
+civil rights leader	73000
+civil rights leader	38000
+civil rights leader	35000
+civil rights leader	37000
+civil rights leader	10000
+civil rights leader	10000
+civil rights leader	129000
+civil rights leader	54000
+civil rights leader	41000
+civil rights leader	55000
+civil rights leader	120000
+civil rights leader	106000
+civil rights leader	66000
+civil rights leader	103000
+civil rights leader	124000
+civil rights leader	106000
+civil rights leader	57000
+civil rights leader	41000
+civil rights leader	47000
+civil rights leader	33000
+civil rights leader	51000
+civil rights leader	10000
+civil rights leader	87000
+civil rights leader	96000
+civil rights leader	110000
+civil rights leader	119000
+civil rights leader	32872000
+civil rights leader	287000
+civil rights leader	698000
+civil rights leader	1406000
+civil rights leader	216000
+civil rights leader	880000
+civil rights leader	861000
+civil rights leader	768000
+civil rights leader	413000
+civil rights leader	765000
+civil rights leader	4115000
+civil rights leader	122000
+civil rights leader	471000
+civil rights leader	54000
+civil rights leader	83000
+civil rights leader	539000
+civil rights leader	128000
+civil rights leader	578000
+civil rights leader	150000
+civil rights leader	1354000
+civil rights leader	126000
+civil rights leader	773000
+civil rights leader	1803000
+civil rights leader	3183000
+civil rights leader	212000
+civil rights leader	425000
+civil rights leader	423000
+civil rights leader	221000
+civil rights leader	1350000
+civil rights leader	180000
+civil rights leader	361000
+civil rights leader	3880000
+civil rights leader	442000
+civil rights leader	5964000
+civil rights leader	1490000
+civil rights leader	10850000
+civil rights leader	145000
+civil rights leader	4042000
+civil rights leader	118000
+civil rights leader	44000
+civil rights leader	105000
+civil rights leader	63000
+civil rights leader	120000
+civil rights leader	542000
+civil rights leader	2348000
+civil rights leader	521000
+civil rights leader	180000
+civil rights leader	2000
+civil rights leader	2772000
+civil rights leader	33000
+civil rights leader	575000
+civil rights leader	307000
+civil rights leader	272000
+civil rights leader	279000
+civil rights leader	219000
+civil rights leader	220000
+civil rights leader	224000
+civil rights leader	234000
+civil rights leader	209000
+civil rights leader	515000
+civil rights leader	307000
+civil rights leader	234000
+civil rights leader	516000
+civil rights leader	322000
+civil rights leader	314000
+civil rights leader	303000
+civil rights leader	391000
+civil rights leader	350000
+civil rights leader	225000
+civil rights leader	3000
+civil rights leader	483000
+civil rights leader	503000
+civil rights leader	225000
+civil rights leader	2000
+civil rights leader	609000
+civil rights leader	489000
+civil rights leader	659000
+civil rights leader	530000
+civil rights leader	650000
+civil rights leader	151000
+civil rights leader	475000
+civil rights leader	468000
+civil rights leader	393000
+civil rights leader	399000
+civil rights leader	240000
+civil rights leader	257000
+civil rights leader	298000
+civil rights leader	331000
+civil rights leader	399000
+civil rights leader	306000
+civil rights leader	364000
+civil rights leader	317000
+civil rights leader	335000
+civil rights leader	340000
+civil rights leader	493000
+civil rights leader	459000
+civil rights leader	350000
+civil rights leader	248000
+civil rights leader	302000
+civil rights leader	298000
+civil rights leader	259000
+civil rights leader	450000
+civil rights leader	337000
+civil rights leader	399000
+civil rights leader	337000
+civil rights leader	424000
+civil rights leader	1880000
+civil rights leader	165000
+civil rights leader	20000
+civil rights leader	20000
+civil rights leader	165000
+civil rights leader	35000
+civil rights leader	5000
+civil rights leader	5000
+civil rights leader	5000
+civil rights leader	5000
+civil rights leader	5000
+civil rights leader	5000
+civil rights leader	10000
+civil rights leader	225000
+civil rights leader	5000
+civil rights leader	125000
+civil rights leader	20000
+civil rights leader	9000
+civil rights leader	30000
+civil rights leader	22500000
+civil rights leader	7178000
+civil rights leader	1236000
+civil rights leader	1040000
+civil rights leader	240000
+civil rights leader	19915000
+civil rights leader	306000
+civil rights leader	261000
+civil rights leader	1634000
+civil rights leader	3799000
+civil rights leader	13907000
+civil rights leader	1139000
+civil rights leader	2313000
+civil rights leader	967000
+civil rights leader	10640000
+civil rights leader	23729000
+civil rights leader	1716000
+civil rights leader	290000
+civil rights leader	2369000
+civil rights leader	489000
+civil rights leader	2000
+civil rights leader	2000
+civil rights leader	13124000
+civil rights leader	3464000
+civil rights leader	375000
+civil rights leader	3954000
+civil rights leader	257000
+civil rights leader	254000
+civil rights leader	723000
+civil rights leader	756000
+civil rights leader	600000
+civil rights leader	596000
+civil rights leader	558000
+civil rights leader	569000
+civil rights leader	2307000
+civil rights leader	989000
+civil rights leader	926000
+civil rights leader	717000
+civil rights leader	483000
+civil rights leader	6859000
+civil rights leader	881000
+civil rights leader	700000
+civil rights leader	300000
+civil rights leader	25000000
+civil rights leader	1912000
+civil rights leader	1431000
+civil rights leader	957000
+civil rights leader	650000
+civil rights leader	1297000
+civil rights leader	152000
+civil rights leader	621000
+civil rights leader	1037000
+civil rights leader	2000
+civil rights leader	1818000
+civil rights leader	5647000
+civil rights leader	9849000
+civil rights leader	12161000
+civil rights leader	582000
+civil rights leader	371000
+civil rights leader	136000
+civil rights leader	7172000
+civil rights leader	195000
+civil rights leader	195000
+civil rights leader	750000
+civil rights leader	987000
+civil rights leader	1060000
+civil rights leader	444000
+civil rights leader	407000
+civil rights leader	591000
+civil rights leader	14096000
+civil rights leader	724000
+civil rights leader	10075000
+civil rights leader	770000
+civil rights leader	2000
+civil rights leader	3055000
+civil rights leader	2074000
+civil rights leader	15434000
+civil rights leader	8768000
+civil rights leader	741000
+civil rights leader	1061000
+civil rights leader	15013000
+civil rights leader	1181000
+civil rights leader	574000
+civil rights leader	899000
+civil rights leader	2085000
+civil rights leader	698000
+civil rights leader	586000
+civil rights leader	666000
+civil rights leader	975000
+civil rights leader	1074000
+civil rights leader	1479000
+civil rights leader	888000
+civil rights leader	721000
+civil rights leader	742000
+civil rights leader	736000
+civil rights leader	888000
+civil rights leader	2447000
+civil rights leader	2891000
+civil rights leader	910000
+civil rights leader	334000
+civil rights leader	114000
+civil rights leader	364000
+civil rights leader	2000
+civil rights leader	1831000
+civil rights leader	4790000
+civil rights leader	216000
+civil rights leader	1532000
+civil rights leader	644000
+civil rights leader	572000
+civil rights leader	1101000
+civil rights leader	572000
+civil rights leader	537000
+civil rights leader	505000
+civil rights leader	608000
+civil rights leader	824000
+civil rights leader	1060000
+civil rights leader	771000
+civil rights leader	584000
+civil rights leader	1175000
+civil rights leader	222000
+civil rights leader	647000
+civil rights leader	730000
+civil rights leader	893000
+civil rights leader	618000
+civil rights leader	613000
+civil rights leader	489000
+civil rights leader	386000
+civil rights leader	426000
+civil rights leader	547000
+civil rights leader	2243000
+civil rights leader	2685000
+civil rights leader	228000
+civil rights leader	4425000
+civil rights leader	495000
+civil rights leader	559000
+civil rights leader	463000
+civil rights leader	607000
+civil rights leader	730000
+civil rights leader	854000
+civil rights leader	1380000
+civil rights leader	2225000
+civil rights leader	2855000
+civil rights leader	2687000
+civil rights leader	3670000
+civil rights leader	3410000
+civil rights leader	1455000
+civil rights leader	556000
+civil rights leader	510000
+civil rights leader	374000
+civil rights leader	1779000
+civil rights leader	777000
+civil rights leader	423000
+civil rights leader	701000
+civil rights leader	1000
+civil rights leader	1000
+civil rights leader	311000
+civil rights leader	629000
+civil rights leader	335000
+civil rights leader	85000
+civil rights leader	286000
+civil rights leader	276000
+civil rights leader	317000
+civil rights leader	273000
+civil rights leader	282000
+civil rights leader	309000
+civil rights leader	287000
+civil rights leader	430000
+civil rights leader	550000
+civil rights leader	1597000
+civil rights leader	85000
+civil rights leader	397000
+civil rights leader	363000
+civil rights leader	164000
+civil rights leader	353000
+civil rights leader	367000
+civil rights leader	314000
+civil rights leader	284000
+civil rights leader	225000
+civil rights leader	615000
+civil rights leader	380000
+civil rights leader	346000
+civil rights leader	273000
+civil rights leader	246000
+civil rights leader	376000
+civil rights leader	304000
+civil rights leader	333000
+civil rights leader	316000
+civil rights leader	249000
+civil rights leader	237000
+civil rights leader	244000
+civil rights leader	281000
+civil rights leader	259000
+civil rights leader	274000
+civil rights leader	158000
+civil rights leader	312000
+civil rights leader	302000
+civil rights leader	332000
+civil rights leader	372000
+civil rights leader	383000
+civil rights leader	373000
+civil rights leader	418000
+civil rights leader	367000
+civil rights leader	329000
+civil rights leader	358000
+civil rights leader	399000
+civil rights leader	387000
+civil rights leader	349000
+civil rights leader	499000
+civil rights leader	555000
+civil rights leader	326000
+civil rights leader	361000
+civil rights leader	369000
+civil rights leader	506000
+civil rights leader	337000
+civil rights leader	316000
+civil rights leader	341000
+civil rights leader	339000
+civil rights leader	400000
+civil rights leader	303000
+civil rights leader	332000
+civil rights leader	403000
+civil rights leader	386000
+civil rights leader	460000
+civil rights leader	389000
+civil rights leader	450000
+civil rights leader	575000
+civil rights leader	376000
+civil rights leader	432000
+civil rights leader	404000
+civil rights leader	327000
+civil rights leader	372000
+civil rights leader	380000
+civil rights leader	357000
+civil rights leader	342000
+civil rights leader	331000
+civil rights leader	274000
+civil rights leader	334000
+civil rights leader	437000
+civil rights leader	251000
+civil rights leader	252000
+civil rights leader	266000
+civil rights leader	279000
+civil rights leader	216000
+civil rights leader	466000
+civil rights leader	523000
+civil rights leader	389000
+civil rights leader	286000
+civil rights leader	386000
+civil rights leader	221000
+civil rights leader	332000
+civil rights leader	273000
+civil rights leader	225000
+civil rights leader	306000
+civil rights leader	292000
+civil rights leader	315000
+civil rights leader	307000
+civil rights leader	298000
+civil rights leader	431000
+civil rights leader	501000
+civil rights leader	456000
+civil rights leader	340000
+civil rights leader	368000
+civil rights leader	321000
+civil rights leader	530000
+civil rights leader	299000
+civil rights leader	420000
+civil rights leader	439000
+civil rights leader	455000
+civil rights leader	366000
+civil rights leader	457000
+civil rights leader	508000
+civil rights leader	566000
+civil rights leader	408000
+civil rights leader	574000
+civil rights leader	497000
+civil rights leader	412000
+civil rights leader	533000
+civil rights leader	716000
+civil rights leader	554000
+civil rights leader	344000
+civil rights leader	282000
+civil rights leader	450000
+civil rights leader	468000
+civil rights leader	345000
+civil rights leader	544000
+civil rights leader	269000
+civil rights leader	391000
+civil rights leader	300000
+civil rights leader	410000
+civil rights leader	364000
+civil rights leader	472000
+civil rights leader	403000
+civil rights leader	507000
+civil rights leader	542000
+civil rights leader	401000
+civil rights leader	366000
+civil rights leader	591000
+civil rights leader	508000
+civil rights leader	571000
+civil rights leader	400000
+civil rights leader	662000
+civil rights leader	634000
+civil rights leader	454000
+civil rights leader	404000
+civil rights leader	630000
+civil rights leader	771000
+civil rights leader	451000
+civil rights leader	392000
+civil rights leader	360000
+civil rights leader	613000
+civil rights leader	308000
+civil rights leader	292000
+civil rights leader	353000
+civil rights leader	457000
+civil rights leader	499000
+civil rights leader	337000
+civil rights leader	352000
+civil rights leader	425000
+civil rights leader	470000
+civil rights leader	385000
+civil rights leader	369000
+civil rights leader	426000
+civil rights leader	539000
+civil rights leader	343000
+civil rights leader	359000
+civil rights leader	302000
+civil rights leader	345000
+civil rights leader	282000
+civil rights leader	313000
+civil rights leader	276000
+civil rights leader	387000
+civil rights leader	300000
+civil rights leader	282000
+civil rights leader	297000
+civil rights leader	279000
+civil rights leader	268000
+civil rights leader	327000
+civil rights leader	317000
+civil rights leader	437000
+civil rights leader	333000
+civil rights leader	311000
+civil rights leader	292000
+civil rights leader	306000
+civil rights leader	412000
+civil rights leader	365000
+civil rights leader	422000
+civil rights leader	298000
+civil rights leader	356000
+civil rights leader	299000
+civil rights leader	435000
+civil rights leader	314000
+civil rights leader	603000
+civil rights leader	599000
+civil rights leader	533000
+civil rights leader	286000
+civil rights leader	274000
+civil rights leader	230000
+civil rights leader	265000
+civil rights leader	35000
+civil rights leader	305000
+civil rights leader	335000
+civil rights leader	374000
+civil rights leader	217000
+civil rights leader	534000
+civil rights leader	400000
+civil rights leader	392000
+civil rights leader	331000
+civil rights leader	256000
+civil rights leader	373000
+civil rights leader	279000
+civil rights leader	234000
+civil rights leader	292000
+civil rights leader	293000
+civil rights leader	280000
+civil rights leader	239000
+civil rights leader	328000
+civil rights leader	198000
+civil rights leader	480000
+civil rights leader	296000
+civil rights leader	187000
+civil rights leader	265000
+civil rights leader	304000
+civil rights leader	249000
+civil rights leader	283000
+civil rights leader	430000
+civil rights leader	213000
+civil rights leader	207000
+civil rights leader	390000
+civil rights leader	249000
+civil rights leader	239000
+civil rights leader	195000
+civil rights leader	168000
+civil rights leader	187000
+civil rights leader	293000
+civil rights leader	303000
+civil rights leader	325000
+civil rights leader	184000
+civil rights leader	250000
+civil rights leader	233000
+civil rights leader	335000
+civil rights leader	284000
+civil rights leader	421000
+civil rights leader	286000
+civil rights leader	363000
+civil rights leader	341000
+civil rights leader	253000
+civil rights leader	277000
+civil rights leader	177000
+civil rights leader	198000
+civil rights leader	205000
+civil rights leader	295000
+civil rights leader	284000
+civil rights leader	298000
+civil rights leader	293000
+civil rights leader	241000
+civil rights leader	292000
+civil rights leader	292000
+civil rights leader	179000
+civil rights leader	181000
+civil rights leader	269000
+civil rights leader	213000
+civil rights leader	291000
+civil rights leader	397000
+civil rights leader	439000
+civil rights leader	419000
+civil rights leader	358000
+civil rights leader	171000
+civil rights leader	35000
+civil rights leader	245000
+civil rights leader	265000
+civil rights leader	213000
+civil rights leader	232000
+civil rights leader	242000
+civil rights leader	244000
+civil rights leader	260000
+civil rights leader	239000
+civil rights leader	509000
+civil rights leader	298000
+civil rights leader	180000
+civil rights leader	273000
+civil rights leader	254000
+civil rights leader	303000
+civil rights leader	201000
+civil rights leader	262000
+civil rights leader	180000
+civil rights leader	211000
+civil rights leader	290000
+civil rights leader	275000
+civil rights leader	280000
+civil rights leader	205000
+civil rights leader	220000
+civil rights leader	208000
+civil rights leader	219000
+civil rights leader	253000
+civil rights leader	220000
+civil rights leader	213000
+civil rights leader	253000
+civil rights leader	267000
+civil rights leader	349000
+civil rights leader	308000
+civil rights leader	221000
+civil rights leader	257000
+civil rights leader	227000
+civil rights leader	263000
+civil rights leader	266000
+civil rights leader	245000
+civil rights leader	247000
+civil rights leader	253000
+civil rights leader	243000
+civil rights leader	204000
+civil rights leader	296000
+civil rights leader	240000
+civil rights leader	201000
+civil rights leader	235000
+civil rights leader	196000
+civil rights leader	237000
+civil rights leader	190000
+civil rights leader	241000
+civil rights leader	212000
+civil rights leader	216000
+civil rights leader	228000
+civil rights leader	236000
+civil rights leader	207000
+civil rights leader	273000
+civil rights leader	175000
+civil rights leader	291000
+civil rights leader	208000
+civil rights leader	343000
+civil rights leader	285000
+civil rights leader	253000
+civil rights leader	262000
+civil rights leader	266000
+civil rights leader	155000
+civil rights leader	147000
+civil rights leader	158000
+civil rights leader	147000
+civil rights leader	22000
+civil rights leader	22000
+civil rights leader	79000
+civil rights leader	22000
+civil rights leader	22000
+civil rights leader	56000
+civil rights leader	4000
+civil rights leader	78000
+civil rights leader	145000
+civil rights leader	29000
+civil rights leader	13000
+civil rights leader	12000
+civil rights leader	18000
+civil rights leader	20000
+civil rights leader	22000
+civil rights leader	20000
+civil rights leader	22000
+civil rights leader	24000
+civil rights leader	12000
+civil rights leader	150000
+civil rights leader	147000
+civil rights leader	162000
+civil rights leader	19000
+civil rights leader	158000
+civil rights leader	147000
+civil rights leader	162000
+civil rights leader	165000
+civil rights leader	22000
+civil rights leader	203000
+civil rights leader	131000
+civil rights leader	110000
+civil rights leader	176000
+civil rights leader	91000
+civil rights leader	89000
+civil rights leader	88000
+civil rights leader	155000
+civil rights leader	22000
+civil rights leader	62000
+civil rights leader	145000
+civil rights leader	74000
+civil rights leader	109000
+civil rights leader	111000
+civil rights leader	108000
+civil rights leader	123000
+civil rights leader	112000
+civil rights leader	80000
+civil rights leader	80000
+civil rights leader	108000
+civil rights leader	114000
+civil rights leader	106000
+civil rights leader	112000
+civil rights leader	166000
+civil rights leader	132000
+civil rights leader	155000
+civil rights leader	114000
+civil rights leader	85000
+civil rights leader	121000
+civil rights leader	108000
+civil rights leader	109000
+civil rights leader	100000
+civil rights leader	109000
+civil rights leader	151000
+civil rights leader	122000
+civil rights leader	109000
+civil rights leader	75000
+civil rights leader	108000
+civil rights leader	136000
+civil rights leader	161000
+civil rights leader	120000
+civil rights leader	24000
+civil rights leader	137000
+confederate	257000
+confederate	83000
+confederate	784000
+confederate	23000
+confederate	19000
+confederate	155000
+confederate	251000
+confederate	162000
+confederate	145000
+confederate	131000
+confederate	122000
+confederate	221000
+confederate	516000
+confederate	205000
+confederate	158000
+confederate	166000
+confederate	226000
+confederate	182000
+confederate	164000
+confederate	126000
+confederate	1169000
+confederate	66000
+confederate	68000
+confederate	233000
+confederate	63000
+confederate	51000
+confederate	360000
+confederate	357000
+confederate	342000
+confederate	192000
+confederate	93000
+confederate	745000
+confederate	403000
+confederate	21000
+confederate	20000
+confederate	17000
+confederate	17000
+confederate	18000
+confederate	1434000
+confederate	711000
+confederate	350000
+confederate	206000
+confederate	214000
+confederate	214000
+confederate	206000
+confederate	214000
+confederate	232000
+confederate	207000
+confederate	206000
+confederate	225000
+confederate	222000
+confederate	124000
+confederate	124000
+confederate	206000
+confederate	121000
+confederate	116000
+confederate	1065000
+confederate	796000
+confederate	896000
+confederate	2000
+confederate	610000
+confederate	523000
+confederate	3747000
+confederate	691000
+confederate	274000
+confederate	274000
+confederate	298000
+confederate	194000
+confederate	124000
+confederate	290000
+confederate	258000
+confederate	258000
+confederate	285000
+confederate	277000
+confederate	261000
+confederate	292000
+confederate	288000
+confederate	307000
+confederate	318000
+confederate	265000
+confederate	275000
+confederate	359000
+confederate	359000
+confederate	393000
+confederate	453000
+confederate	412000
+confederate	429000
+confederate	425000
+confederate	280000
+confederate	3750000
+confederate	2000
+confederate	102000
+confederate	110000
+confederate	138000
+confederate	491000
+confederate	630000
+confederate	4000
+confederate	371000
+confederate	432000
+confederate	229000
+confederate	351000
+confederate	300000
+confederate	278000
+confederate	271000
+confederate	274000
+confederate	288000
+confederate	266000
+confederate	249000
+confederate	294000
+confederate	287000
+confederate	254000
+confederate	247000
+confederate	74000
+confederate	328000
+confederate	270000
+confederate	322000
+confederate	402000
+confederate	290000
+confederate	272000
+confederate	410000
+confederate	349000
+confederate	381000
+confederate	372000
+confederate	13000
+confederate	13000
+confederate	422000
+confederate	445000
+confederate	266000
+confederate	223000
+confederate	52000
+confederate	746000
+confederate	601000
+confederate	957000
+confederate	109000
+confederate	74000
+confederate	176000
+confederate	93000
+confederate	185000
+confederate	70000
+confederate	126000
+confederate	94000
+confederate	79000
+confederate	108000
+confederate	67000
+confederate	83000
+confederate	145000
+confederate	110000
+confederate	121000
+confederate	116000
+confederate	109000
+confederate	59000
+confederate	105000
+confederate	106000
+confederate	70000
+confederate	32000
+confederate	140000
+confederate	140000
+confederate	111000
+confederate	109000
+confederate	106000
+confederate	24000
+confederate	166000
+confederate	22000
+confederate	117000
+confederate	156000
+confederate	97000
+confederate	146000
+confederate	110000
+confederate	104000
+confederate	147000
+confederate	108000
+confederate	130000
+confederate	107000
+confederate	291000
+confederate	147000
+confederate	147000
+confederate	156000
+confederate	129000
+confederate	112000
+confederate	141000
+confederate	119000
+confederate	127000
+confederate	110000
+confederate	1075000
+confederate	199000
+confederate	288000
+confederate	142000
+confederate	2000
+confederate	27000
+confederate	126000
+confederate	115000
+confederate	122000
+confederate	114000
+confederate	245000
+confederate	145000
+confederate	149000
+confederate	108000
+confederate	107000
+confederate	177000
+confederate	138000
+confederate	135000
+confederate	164000
+confederate	151000
+confederate	102000
+confederate	126000
+confederate	159000
+confederate	110000
+confederate	153000
+confederate	113000
+confederate	190000
+confederate	145000
+confederate	29000
+confederate	123000
+confederate	150000
+confederate	185000
+confederate	104000
+confederate	133000
+confederate	162000
+confederate	150000
+confederate	146000
+confederate	179000
+confederate	145000
+confederate	156000
+confederate	136000
+confederate	275000
+confederate	104000
+confederate	128000
+confederate	170000
+confederate	161000
+confederate	138000
+confederate	148000
+confederate	29000
+confederate	2000
+confederate	115000
+confederate	125000
+confederate	200000
+confederate	29000
+confederate	24000
+confederate	107000
+confederate	121000
+confederate	120000
+confederate	228000
+confederate	74000
+confederate	27000
+confederate	109000
+confederate	156000
+confederate	140000
+confederate	135000
+confederate	175000
+confederate	128000
+confederate	134000
+confederate	147000
+confederate	60000
+confederate	146000
+confederate	106000
+confederate	91000
+confederate	110000
+confederate	106000
+confederate	115000
+confederate	83000
+confederate	133000
+confederate	116000
+confederate	43000
+confederate	105000
+confederate	21000
+confederate	152000
+confederate	103000
+confederate	170000
+confederate	89000
+confederate	160000
+confederate	174000
+confederate	208000
+confederate	124000
+confederate	132000
+confederate	135000
+confederate	121000
+confederate	117000
+confederate	120000
+confederate	109000
+confederate	109000
+confederate	117000
+confederate	87000
+confederate	122000
+confederate	153000
+confederate	132000
+confederate	127000
+confederate	104000
+confederate	104000
+confederate	138000
+confederate	109000
+confederate	61000
+confederate	107000
+confederate	124000
+confederate	125000
+confederate	128000
+confederate	119000
+confederate	18000
+confederate	123000
+confederate	135000
+confederate	100000
+confederate	195000
+confederate	78000
+confederate	106000
+confederate	121000
+confederate	121000
+confederate	132000
+confederate	120000
+confederate	21000
+confederate	118000
+confederate	113000
+confederate	90000
+confederate	120000
+confederate	121000
+confederate	129000
+confederate	21000
+confederate	129000
+confederate	126000
+confederate	124000
+confederate	138000
+confederate	103000
+confederate	151000
+confederate	141000
+confederate	118000
+confederate	152000
+confederate	137000
+confederate	107000
+confederate	165000
+confederate	109000
+confederate	124000
+confederate	113000
+confederate	113000
+confederate	128000
+confederate	99000
+confederate	128000
+confederate	104000
+confederate	113000
+confederate	153000
+confederate	181000
+confederate	126000
+confederate	121000
+confederate	116000
+confederate	147000
+confederate	181000
+confederate	112000
+confederate	149000
+confederate	20000
+confederate	100000
+confederate	41000
+confederate	63000
+confederate	63000
+confederate	53000
+confederate	10000
+confederate	47000
+confederate	74000
+confederate	55000
+confederate	81000
+confederate	58000
+confederate	15000
+confederate	58000
+confederate	58000
+confederate	50000
+confederate	63000
+confederate	47000
+confederate	52000
+confederate	63000
+confederate	66000
+confederate	72000
+confederate	10000
+confederate	73000
+confederate	46000
+confederate	51000
+confederate	10000
+confederate	85000
+confederate	70000
+confederate	67000
+confederate	67000
+confederate	50000
+confederate	50000
+confederate	48000
+confederate	55000
+confederate	55000
+confederate	61000
+confederate	67000
+confederate	55000
+confederate	55000
+confederate	51000
+confederate	22000
+confederate	89000
+confederate	15000
+confederate	11000
+confederate	11000
+confederate	10000
+confederate	10000
+confederate	10000
+confederate	57000
+confederate	63000
+confederate	11000
+confederate	22000
+confederate	12000
+confederate	171000
+confederate	102000
+confederate	73000
+confederate	87000
+confederate	85000
+confederate	74000
+confederate	103000
+confederate	92000
+confederate	84000
+confederate	75000
+confederate	83000
+confederate	25000
+confederate	51000
+confederate	48000
+confederate	49000
+confederate	45000
+confederate	45000
+confederate	50000
+confederate	49000
+confederate	83000
+confederate	45000
+confederate	46000
+confederate	58000
+confederate	48000
+confederate	53000
+confederate	45000
+confederate	46000
+confederate	57000
+confederate	45000
+confederate	45000
+confederate	139000
+confederate	21000
+confederate	59000
+confederate	59000
+confederate	59000
+confederate	59000
+confederate	62000
+confederate	59000
+confederate	59000
+confederate	59000
+confederate	76000
+confederate	68000
+confederate	71000
+confederate	20000
+confederate	77000
+confederate	20000
+confederate	82000
+confederate	118000
+confederate	89000
+confederate	43000
+confederate	68000
+confederate	98000
+confederate	20000
+confederate	110000
+confederate	78000
+confederate	93000
+confederate	84000
+confederate	110000
+confederate	85000
+confederate	62000
+confederate	85000
+confederate	83000
+confederate	93000
+confederate	61000
+confederate	77000
+confederate	70000
+confederate	77000
+confederate	20000
+confederate	79000
+confederate	124000
+confederate	25000
+confederate	146000
+confederate	101000
+confederate	92000
+confederate	94000
+confederate	93000
+confederate	91000
+confederate	107000
+confederate	276000
+confederate	145000
+confederate	85000
+confederate	85000
+confederate	86000
+confederate	85000
+confederate	87000
+confederate	86000
+confederate	89000
+confederate	97000
+confederate	78000
+confederate	78000
+confederate	79000
+confederate	82000
+confederate	78000
+confederate	78000
+confederate	18000
+confederate	20000
+confederate	6000
+confederate	20000
+confederate	20000
+confederate	15000
+confederate	154000
+confederate	144000
+confederate	1000
+confederate	160000
+confederate	144000
+confederate	141000
+confederate	145000
+confederate	126000
+confederate	1000
+confederate	62000
+confederate	37000
+confederate	37000
+confederate	55000
+confederate	37000
+confederate	48000
+confederate	38000
+confederate	10000
+confederate	53000
+confederate	70000
+confederate	45000
+confederate	10000
+confederate	74000
+confederate	59000
+confederate	10000
+confederate	67000
+confederate	84000
+confederate	26000
+confederate	42000
+confederate	79000
+confederate	46000
+confederate	85000
+confederate	64000
+confederate	52000
+confederate	51000
+confederate	81000
+confederate	37000
+confederate	44000
+confederate	45000
+confederate	35000
+confederate	41000
+confederate	46000
+confederate	533000
+confederate	708000
+confederate	688000
+confederate	627000
+confederate	697000
+confederate	647000
+confederate	510000
+confederate	423000
+confederate	633000
+confederate	534000
+confederate	700000
+confederate	786000
+confederate	517000
+confederate	435000
+confederate	645000
+confederate	929000
+confederate	395000
+confederate	725000
+confederate	530000
+confederate	454000
+confederate	920000
+confederate	635000
+confederate	740000
+confederate	795000
+confederate	134000
+confederate	240000
+confederate	205000
+confederate	181000
+confederate	195000
+confederate	187000
+confederate	227000
+confederate	176000
+confederate	178000
+confederate	178000
+confederate	188000
+confederate	195000
+confederate	229000
+confederate	198000
+confederate	170000
+confederate	243000
+confederate	166000
+confederate	173000
+confederate	171000
+confederate	168000
+confederate	221000
+confederate	190000
+confederate	20000
+confederate	20000
+confederate	20000
+confederate	20000
+confederate	20000
+confederate	20000
+confederate	129000
+confederate	136000
+confederate	96000
+confederate	120000
+confederate	121000
+confederate	98000
+confederate	87000
+confederate	129000
+confederate	97000
+confederate	127000
+confederate	101000
+confederate	109000
+confederate	104000
+confederate	90000
+confederate	114000
+confederate	108000
+confederate	110000
+confederate	132000
+confederate	137000
+confederate	127000
+confederate	111000
+confederate	99000
+confederate	112000
+confederate	104000
+confederate	117000
+confederate	126000
+confederate	102000
+confederate	116000
+confederate	120000
+confederate	156000
+confederate	135000
+confederate	121000
+confederate	142000
+confederate	130000
+confederate	118000
+confederate	119000
+confederate	123000
+confederate	106000
+confederate	93000
+confederate	113000
+confederate	162000
+confederate	191000
+confederate	181000
+confederate	173000
+confederate	171000
+confederate	173000
+confederate	175000
+confederate	177000
+confederate	173000
+confederate	176000
+confederate	202000
+confederate	177000
+confederate	190000
+confederate	173000
+confederate	173000
+confederate	214000
+confederate	175000
+confederate	173000
+confederate	147000
+confederate	147000
+confederate	146000
+confederate	176000
+confederate	171000
+confederate	165000
+confederate	176000
+confederate	174000
+confederate	176000
+confederate	161000
+confederate	165000
+confederate	161000
+confederate	211000
+confederate	167000
+confederate	183000
+confederate	180000
+confederate	198000
+confederate	182000
+confederate	175000
+confederate	158000
+confederate	175000
+confederate	185000
+confederate	182000
+confederate	183000
+confederate	196000
+confederate	151000
+confederate	130000
+confederate	255000
+confederate	215000
+confederate	118000
+confederate	120000
+confederate	124000
+confederate	124000
+confederate	74000
+confederate	80000
+confederate	330000
+confederate	151000
+confederate	168000
+confederate	116000
+confederate	113000
+confederate	32000
+confederate	312000
+confederate	9000
+confederate	70000
+confederate	621000
+confederate	1078000
+confederate	2471000
+confederate	45000
+confederate	45000
+confederate	62000
+confederate	72000
+confederate	41000
+confederate	43000
+confederate	43000
+confederate	43000
+confederate	42000
+confederate	114000
+confederate	57000
+confederate	65000
+confederate	10000
+confederate	53000
+confederate	43000
+confederate	46000
+confederate	54000
+confederate	66000
+confederate	74000
+confederate	97000
+confederate	60000
+confederate	58000
+confederate	55000
+confederate	58000
+confederate	72000
+confederate	57000
+confederate	73000
+confederate	53000
+confederate	74000
+confederate	56000
+confederate	57000
+confederate	52000
+confederate	77000
+confederate	76000
+confederate	66000
+confederate	63000
+confederate	53000
+confederate	67000
+confederate	33000
+confederate	48000
+confederate	63000
+confederate	98000
+confederate	38000
+confederate	47000
+confederate	50000
+confederate	32000
+confederate	2141000
+confederate	208000
+confederate	4274000
+confederate	216000
+confederate	115000
+confederate	50000
+confederate	44000
+confederate	45000
+confederate	40000
+confederate	49000
+confederate	47000
+confederate	42000
+confederate	44000
+confederate	43000
+confederate	76000
+confederate	62000
+confederate	59000
+confederate	58000
+confederate	60000
+confederate	63000
+confederate	61000
+confederate	59000
+confederate	52000
+confederate	57000
+confederate	59000
+confederate	51000
+confederate	55000
+confederate	57000
+confederate	39000
+confederate	57000
+confederate	98000
+confederate	49000
+confederate	68000
+confederate	54000
+confederate	73000
+confederate	71000
+confederate	51000
+confederate	64000
+confederate	52000
+confederate	43000
+confederate	10000
+confederate	52000
+confederate	60000
+confederate	61000
+confederate	57000
+confederate	58000
+confederate	79000
+confederate	28000
+confederate	58000
+confederate	88000
+confederate	1000
+confederate	16000
+confederate	23000
+confederate	23000
+confederate	23000
+confederate	23000
+confederate	23000
+confederate	156000
+confederate	26000
+confederate	115000
+confederate	98000
+confederate	106000
+confederate	107000
+confederate	108000
+confederate	90000
+confederate	95000
+confederate	96000
+confederate	109000
+confederate	102000
+confederate	108000
+confederate	100000
+confederate	91000
+confederate	97000
+confederate	104000
+confederate	95000
+confederate	89000
+confederate	89000
+confederate	94000
+confederate	89000
+confederate	97000
+confederate	101000
+confederate	169000
+confederate	84000
+confederate	94000
+confederate	125000
+confederate	84000
+confederate	91000
+confederate	1339000
+confederate	175000
+confederate	175000
+confederate	175000
+confederate	175000
+confederate	175000
+confederate	175000
+confederate	15000
+confederate	149000
+confederate	30000
+confederate	157000
+confederate	173000
+confederate	98000
+confederate	35000
+confederate	35000
+confederate	40000
+confederate	51000
+confederate	52000
+confederate	52000
+confederate	52000
+confederate	54000
+confederate	47000
+confederate	55000
+confederate	52000
+confederate	52000
+confederate	52000
+confederate	53000
+confederate	52000
+confederate	47000
+confederate	2000
+confederate	48000
+confederate	2000
+confederate	307000
+confederate	278000
+confederate	278000
+confederate	307000
+confederate	307000
+confederate	278000
+confederate	278000
+confederate	307000
+confederate	102000
+confederate	329000
+confederate	341000
+confederate	351000
+confederate	342000
+confederate	322000
+confederate	344000
+confederate	331000
+confederate	390000
+confederate	414000
+confederate	754000
+confederate	14315000
+confederate	323000
+confederate	1222000
+confederate	2509000
+confederate	350000
+confederate	60000
+confederate	55000
+confederate	55000
+confederate	60000
+confederate	60000
+confederate	60000
+confederate	60000
+confederate	55000
+confederate	197000
+confederate	211000
+confederate	249000
+confederate	267000
+confederate	264000
+confederate	271000
+confederate	382000
+confederate	325000
+confederate	291000
+confederate	293000
+confederate	182000
+confederate	267000
+confederate	265000
+confederate	317000
+confederate	279000
+confederate	656000
+confederate	134000
+confederate	349000
+confederate	699000
+confederate	335000
+confederate	352000
+confederate	289000
+confederate	662000
+confederate	240000
+confederate	530000
+confederate	524000
+confederate	241000
+confederate	361000
+confederate	347000
+confederate	593000
+confederate	4361000
+confederate	267000
+confederate	1147000
+confederate	1348000
+confederate	1360000
+confederate	1341000
+confederate	511000
+confederate	200000
+confederate	460000
+confederate	454000
+confederate	303000
+confederate	137000
+confederate	284000
+confederate	101000
+confederate	592000
+confederate	695000
+confederate	786000
+confederate	695000
+confederate	141000
+confederate	385000
+confederate	502000
+confederate	494000
+confederate	473000
+confederate	422000
+confederate	24000
+confederate	537000
+confederate	365000
+confederate	209000
+confederate	279000
+confederate	228000
+confederate	229000
+confederate	315000
+confederate	6000
+confederate	250000
+confederate	80000
+confederate	104000
+confederate	85000
+confederate	85000
+confederate	90000
+confederate	109000
+confederate	110000
+confederate	31000
+confederate	128000
+confederate	84000
+confederate	127000
+confederate	106000
+confederate	10875000
+confederate	157000
+confederate	165000
+confederate	169000
+confederate	168000
+confederate	168000
+confederate	152000
+confederate	28000
+confederate	2000
+confederate	3000
+confederate	18000
+confederate	34000
+confederate	57000
+confederate	38000
+confederate	28000
+confederate	117000
+confederate	58000
+confederate	57000
+confederate	87000
+confederate	95000
+confederate	74000
+confederate	135000
+confederate	256000
+confederate	59000
+confederate	92000
+confederate	73000
+confederate	155000
+confederate	73000
+confederate	72000
+confederate	90000
+confederate	81000
+confederate	55000
+confederate	72000
+confederate	22000
+confederate	93000
+confederate	84000
+confederate	97000
+confederate	73000
+confederate	71000
+confederate	69000
+confederate	74000
+confederate	78000
+confederate	66000
+confederate	63000
+confederate	85000
+confederate	103000
+confederate	96000
+confederate	58000
+confederate	73000
+confederate	59000
+confederate	59000
+confederate	56000
+confederate	76000
+confederate	68000
+confederate	62000
+confederate	74000
+confederate	65000
+confederate	82000
+confederate	87000
+confederate	89000
+confederate	2000
+confederate	107000
+confederate	3266000
+confederate	4380000
+confederate	139000
+confederate	20000
+confederate	95000
+confederate	135000
+confederate	125000
+confederate	77000
+confederate	106000
+confederate	32000
+confederate	876000
+confederate	294000
+confederate	72000
+confederate	163000
+confederate	42000
+confederate	2000
+confederate	15000
+confederate	20000
+confederate	20000
+confederate	93000
+confederate	93000
+confederate	93000
+confederate	91000
+confederate	84000
+confederate	84000
+confederate	84000
+confederate	140000
+confederate	145000
+confederate	121000
+confederate	93000
+confederate	98000
+confederate	93000
+confederate	101000
+confederate	93000
+confederate	93000
+confederate	92000
+confederate	143000
+confederate	93000
+confederate	104000
+confederate	110000
+confederate	23000
+confederate	55000
+confederate	107000
+confederate	93000
+confederate	92000
+confederate	95000
+confederate	10000
+confederate	90000
+confederate	13000
+confederate	92000
+confederate	483000
+confederate	90000
+confederate	150000
+confederate	175000
+confederate	156000
+confederate	118000
+confederate	157000
+confederate	35000
+confederate	159000
+confederate	166000
+confederate	156000
+confederate	828000
+confederate	417000
+confederate	775000
+confederate	2248000
+confederate	2118000
+confederate	272000
+confederate	478000
+confederate	3402000
+confederate	2021000
+confederate	297000
+confederate	313000
+confederate	1244000
+confederate	86000
+confederate	86000
+confederate	82000
+confederate	68000
+confederate	55000
+confederate	98000
+confederate	102000
+confederate	76000
+confederate	80000
+confederate	74000
+confederate	77000
+confederate	85000
+confederate	62000
+confederate	71000
+confederate	97000
+confederate	81000
+confederate	61000
+confederate	57000
+confederate	52000
+confederate	53000
+confederate	78000
+confederate	72000
+confederate	14000
+confederate	75000
+confederate	66000
+confederate	66000
+confederate	71000
+confederate	71000
+confederate	110000
+confederate	75000
+confederate	90000
+confederate	84000
+confederate	54000
+confederate	71000
+confederate	87000
+confederate	75000
+confederate	99000
+confederate	68000
+confederate	63000
+confederate	63000
+confederate	88000
+confederate	79000
+confederate	80000
+confederate	71000
+confederate	71000
+confederate	74000
+confederate	95000
+confederate	72000
+confederate	66000
+confederate	66000
+confederate	88000
+confederate	75000
+confederate	102000
+confederate	75000
+confederate	80000
+confederate	68000
+confederate	58000
+confederate	66000
+confederate	57000
+confederate	71000
+confederate	84000
+confederate	154000
+confederate	147000
+confederate	155000
+confederate	149000
+confederate	149000
+confederate	153000
+confederate	153000
+confederate	149000
+confederate	149000
+confederate	149000
+confederate	147000
+confederate	147000
+confederate	59000
+confederate	150000
+confederate	133000
+confederate	132000
+confederate	132000
+confederate	132000
+confederate	133000
+confederate	133000
+confederate	131000
+confederate	132000
+confederate	132000
+confederate	133000
+confederate	149000
+confederate	146000
+confederate	146000
+confederate	146000
+confederate	150000
+confederate	151000
+confederate	148000
+confederate	148000
+confederate	152000
+confederate	152000
+confederate	149000
+confederate	146000
+confederate	146000
+confederate	150000
+confederate	148000
+confederate	149000
+confederate	146000
+confederate	146000
+confederate	146000
+confederate	149000
+confederate	239000
+confederate	230000
+confederate	215000
+confederate	242000
+confederate	209000
+confederate	238000
+confederate	253000
+confederate	381000
+confederate	55000
+confederate	247000
+confederate	136000
+confederate	212000
+confederate	241000
+confederate	243000
+confederate	265000
+confederate	215000
+confederate	231000
+confederate	47000
+confederate	238000
+confederate	230000
+confederate	578000
+confederate	22000
+confederate	90000
+confederate	87000
+confederate	91000
+confederate	81000
+confederate	87000
+confederate	92000
+confederate	50000
+confederate	75000
+confederate	91000
+confederate	123000
+confederate	99000
+confederate	116000
+confederate	101000
+confederate	118000
+confederate	120000
+confederate	224000
+confederate	674000
+confederate	79000
+confederate	73000
+confederate	82000
+confederate	167000
+confederate	76000
+confederate	215000
+confederate	115000
+confederate	68000
+confederate	110000
+confederate	80000
+confederate	85000
+confederate	129000
+confederate	24000
+confederate	41000
+confederate	112000
+confederate	99000
+confederate	102000
+confederate	130000
+confederate	105000
+confederate	76000
+confederate	113000
+confederate	146000
+confederate	103000
+confederate	132000
+confederate	93000
+confederate	131000
+confederate	165000
+confederate	139000
+confederate	3000
+confederate	87000
+confederate	126000
+confederate	133000
+confederate	215000
+confederate	145000
+confederate	151000
+confederate	115000
+confederate	151000
+confederate	133000
+confederate	135000
+confederate	122000
+confederate	60000
+confederate	158000
+confederate	151000
+confederate	118000
+confederate	117000
+confederate	200000
+confederate	176000
+confederate	109000
+confederate	158000
+confederate	126000
+confederate	163000
+confederate	120000
+confederate	210000
+confederate	131000
+confederate	130000
+confederate	132000
+confederate	129000
+confederate	146000
+confederate	1000
+confederate	134000
+confederate	60000
+confederate	84000
+confederate	81000
+confederate	83000
+confederate	77000
+confederate	84000
+confederate	108000
+confederate	45000
+confederate	92000
+confederate	165000
+confederate	97000
+confederate	21000
+confederate	33000
+confederate	21000
+confederate	115000
+confederate	63000
+confederate	81000
+confederate	82000
+confederate	114000
+confederate	114000
+confederate	183000
+confederate	85000
+confederate	99000
+confederate	100000
+confederate	119000
+confederate	130000
+confederate	107000
+confederate	115000
+confederate	112000
+confederate	113000
+confederate	104000
+confederate	212000
+confederate	104000
+confederate	104000
+confederate	91000
+confederate	160000
+confederate	137000
+confederate	200000
+confederate	114000
+confederate	225000
+confederate	151000
+confederate	139000
+confederate	108000
+confederate	104000
+confederate	150000
+confederate	127000
+confederate	104000
+confederate	165000
+confederate	99000
+confederate	118000
+confederate	105000
+confederate	216000
+confederate	114000
+confederate	121000
+confederate	113000
+confederate	114000
+confederate	103000
+confederate	91000
+confederate	126000
+confederate	157000
+confederate	83000
+confederate	97000
+confederate	122000
+confederate	114000
+confederate	133000
+confederate	111000
+confederate	189000
+confederate	110000
+confederate	146000
+confederate	108000
+confederate	127000
+confederate	104000
+confederate	80000
+confederate	84000
+confederate	120000
+confederate	92000
+confederate	244000
+confederate	128000
+confederate	118000
+confederate	116000
+confederate	115000
+confederate	88000
+confederate	50000
+confederate	60000
+confederate	45000
+confederate	60000
+confederate	47000
+confederate	60000
+confederate	72000
+confederate	49000
+confederate	79000
+confederate	53000
+confederate	119000
+confederate	68000
+confederate	74000
+confederate	51000
+confederate	58000
+confederate	49000
+confederate	53000
+confederate	56000
+confederate	73000
+confederate	59000
+confederate	10000
+confederate	10000
+confederate	10000
+confederate	104000
+confederate	61000
+confederate	61000
+confederate	73000
+confederate	73000
+confederate	81000
+confederate	15000
+confederate	10000
+confederate	45000
+confederate	36000
+confederate	94000
+confederate	107000
+confederate	53000
+confederate	50000
+confederate	62000
+confederate	68000
+confederate	75000
+confederate	71000
+confederate	50000
+confederate	64000
+confederate	15000
+confederate	69000
+confederate	85000
+confederate	98000
+confederate	65000
+confederate	54000
+confederate	56000
+confederate	53000
+confederate	37000
+confederate	62000
+confederate	53000
+confederate	58000
+confederate	80000
+confederate	72000
+confederate	38000
+confederate	10000
+confederate	51000
+confederate	47000
+confederate	75000
+confederate	62000
+confederate	10000
+confederate	58000
+confederate	37000
+confederate	66000
+confederate	67000
+confederate	75000
+confederate	52000
+confederate	15000
+confederate	84000
+confederate	68000
+confederate	57000
+confederate	58000
+confederate	61000
+confederate	54000
+confederate	68000
+confederate	57000
+confederate	1000
+confederate	39000
+confederate	39000
+confederate	44000
+confederate	57000
+confederate	73000
+confederate	47000
+confederate	42000
+confederate	40000
+confederate	78000
+confederate	48000
+confederate	57000
+confederate	44000
+confederate	35000
+confederate	37000
+confederate	38000
+confederate	38000
+confederate	58000
+confederate	44000
+confederate	52000
+confederate	52000
+confederate	43000
+confederate	52000
+confederate	60000
+confederate	52000
+confederate	52000
+confederate	53000
+confederate	54000
+confederate	60000
+confederate	76000
+confederate	75000
+confederate	85000
+confederate	64000
+confederate	30000
+confederate	10000
+confederate	10000
+confederate	67000
+confederate	62000
+confederate	30000
+confederate	73000
+confederate	94000
+confederate	10000
+confederate	47000
+confederate	72000
+confederate	42000
+confederate	10000
+confederate	44000
+confederate	10000
+confederate	97000
+confederate	84000
+confederate	50000
+confederate	205000
+confederate	98000
+confederate	68000
+confederate	84000
+confederate	215000
+confederate	232000
+confederate	218000
+confederate	248000
+confederate	315000
+confederate	300000
+confederate	284000
+confederate	5087000
+confederate	80000
+confederate	72000
+confederate	1000
+confederate	532000
+confederate	209000
+confederate	88000
+confederate	216000
+confederate	407000
+confederate	262000
+confederate	20000
+confederate	78000
+confederate	32000
+confederate	13689000
+confederate	14657000
+confederate	1901000
+confederate	305000
+confederate	872000
+confederate	235000
+confederate	32000
+confederate	35000
+confederate	411000
+confederate	17000
+confederate	140000
+confederate	79000
+confederate	79000
+confederate	78000
+confederate	20000
+confederate	84000
+confederate	88000
+confederate	56000
+confederate	1724000
+confederate	256000
+confederate	605000
+confederate	1460000
+confederate	41000
+confederate	51000
+confederate	30000
+confederate	30000
+confederate	94000
+confederate	96000
+confederate	67000
+confederate	67000
+confederate	67000
+confederate	62000
+confederate	10000
+confederate	73000
+confederate	53000
+confederate	117000
+confederate	117000
+confederate	114000
+confederate	100000
+confederate	77000
+confederate	18000
+confederate	18000
+confederate	131000
+confederate	99000
+confederate	45000
+confederate	17000
+confederate	32000
+confederate	142000
+confederate	103000
+confederate	14000
+confederate	28000
+confederate	97000
+confederate	130000
+confederate	142000
+confederate	70000
+confederate	88000
+confederate	124000
+confederate	10000
+confederate	10000
+confederate	88000
+confederate	123000
+confederate	81000
+confederate	95000
+confederate	77000
+confederate	26000
+confederate	26000
+confederate	18000
+confederate	25000
+confederate	130000
+confederate	129000
+confederate	62000
+confederate	306000
+confederate	7065000
+confederate	236000
+confederate	2509000
+confederate	120000
+confederate	2926000
+confederate	29000
+confederate	4000
+confederate	1572000
+confederate	108000
+confederate	791000
+confederate	40000
+confederate	57000
+confederate	22000
+confederate	95000
+confederate	10000
+confederate	74000
+confederate	53000
+confederate	49000
+confederate	67000
+confederate	75000
+confederate	116000
+confederate	4149000
+confederate	84000
+confederate	57000
+confederate	84000
+confederate	47000
+confederate	49000
+confederate	545000
+confederate	22000
+confederate	317000
+confederate	363000
+confederate	142000
+confederate	63000
+confederate	50000
+confederate	56000
+confederate	57000
+confederate	52000
+confederate	48000
+confederate	49000
+confederate	15000
+confederate	4357000
+confederate	4725000
+confederate	70000
+confederate	79000
+confederate	125000
+confederate	90000
+confederate	104000
+confederate	111000
+confederate	122000
+confederate	146000
+confederate	105000
+confederate	125000
+confederate	121000
+confederate	83000
+confederate	134000
+confederate	70000
+confederate	158000
+confederate	93000
+confederate	146000
+confederate	130000
+confederate	71000
+confederate	117000
+confederate	117000
+confederate	93000
+confederate	111000
+confederate	125000
+confederate	117000
+confederate	166000
+confederate	110000
+confederate	123000
+confederate	112000
+confederate	91000
+confederate	135000
+confederate	124000
+confederate	116000
+confederate	126000
+confederate	58000
+confederate	129000
+confederate	99000
+confederate	159000
+confederate	160000
+confederate	92000
+confederate	108000
+confederate	96000
+confederate	119000
+confederate	92000
+confederate	82000
+confederate	185000
+confederate	130000
+confederate	145000
+confederate	130000
+confederate	73000
+confederate	111000
+confederate	94000
+confederate	86000
+confederate	67000
+confederate	110000
+confederate	68000
+confederate	30000
+confederate	123000
+confederate	99000
+confederate	50000
+confederate	78000
+confederate	104000
+confederate	90000
+confederate	144000
+confederate	114000
+confederate	98000
+confederate	103000
+confederate	97000
+confederate	98000
+confederate	140000
+confederate	96000
+confederate	99000
+confederate	100000
+confederate	96000
+confederate	104000
+confederate	109000
+confederate	103000
+confederate	132000
+confederate	114000
+confederate	128000
+confederate	108000
+confederate	108000
+confederate	104000
+confederate	108000
+confederate	114000
+confederate	109000
+confederate	93000
+confederate	107000
+confederate	107000
+confederate	100000
+confederate	103000
+confederate	116000
+confederate	128000
+confederate	94000
+confederate	91000
+confederate	92000
+confederate	122000
+confederate	34878000
+confederate	133000
+confederate	143000
+confederate	146000
+confederate	205000
+confederate	252000
+confederate	146000
+confederate	243000
+confederate	218000
+confederate	157000
+confederate	222000
+confederate	159000
+confederate	111000
+confederate	45000
+confederate	190000
+confederate	212000
+confederate	226000
+confederate	98000
+confederate	76000
+confederate	153000
+confederate	133000
+confederate	227000
+confederate	207000
+confederate	163000
+confederate	123000
+confederate	25000
+confederate	124000
+confederate	25000
+confederate	127000
+confederate	185000
+confederate	151000
+confederate	30000
+confederate	30000
+confederate	227000
+confederate	2000
+confederate	138000
+confederate	137000
+confederate	140000
+confederate	25000
+confederate	25000
+confederate	520000
+confederate	579000
+confederate	530000
+confederate	75000
+confederate	342000
+confederate	310000
+confederate	448000
+confederate	387000
+confederate	39000
+confederate	246000
+confederate	260000
+confederate	200000
+confederate	727000
+confederate	2000
+confederate	390000
+confederate	395000
+confederate	297000
+confederate	290000
+confederate	330000
+confederate	285000
+confederate	291000
+confederate	353000
+confederate	2000
+confederate	353000
+confederate	2000
+confederate	186000
+confederate	308000
+confederate	441000
+confederate	535000
+confederate	540000
+confederate	541000
+confederate	353000
+confederate	346000
+confederate	342000
+confederate	386000
+confederate	369000
+confederate	406000
+confederate	441000
+confederate	303000
+confederate	302000
+confederate	319000
+confederate	344000
+confederate	312000
+confederate	323000
+confederate	238000
+confederate	319000
+confederate	280000
+confederate	303000
+confederate	391000
+confederate	314000
+confederate	291000
+confederate	262000
+confederate	297000
+confederate	383000
+confederate	555000
+confederate	85000
+confederate	345000
+confederate	333000
+confederate	299000
+confederate	340000
+confederate	301000
+confederate	391000
+confederate	377000
+confederate	355000
+confederate	334000
+confederate	299000
+confederate	332000
+confederate	318000
+confederate	315000
+confederate	333000
+confederate	316000
+confederate	322000
+confederate	399000
+confederate	225000
+confederate	230000
+confederate	243000
+confederate	234000
+confederate	223000
+confederate	221000
+confederate	219000
+confederate	223000
+confederate	212000
+confederate	219000
+confederate	358000
+confederate	250000
+confederate	302000
+confederate	294000
+confederate	323000
+confederate	304000
+confederate	250000
+confederate	263000
+confederate	283000
+confederate	309000
+confederate	278000
+confederate	303000
+confederate	295000
+confederate	391000
+confederate	6000
+confederate	22000
+confederate	18000
+confederate	520000
+confederate	342000
+confederate	199000
+confederate	254000
+confederate	229000
+confederate	253000
+confederate	5800000
+confederate	196000
+confederate	328000
+confederate	313000
+confederate	295000
+confederate	357000
+confederate	1928000
+confederate	197000
+confederate	145000
+confederate	145000
+confederate	151000
+confederate	145000
+confederate	151000
+confederate	151000
+confederate	157000
+confederate	151000
+confederate	145000
+confederate	151000
+confederate	145000
+confederate	145000
+confederate	744000
+confederate	272000
+confederate	246000
+confederate	231000
+confederate	1444000
+confederate	1088000
+confederate	748000
+confederate	257000
+confederate	371000
+confederate	287000
+confederate	224000
+confederate	286000
+confederate	318000
+confederate	303000
+confederate	271000
+confederate	226000
+confederate	280000
+confederate	193000
+confederate	252000
+confederate	297000
+confederate	248000
+confederate	367000
+confederate	281000
+confederate	489000
+confederate	241000
+confederate	227000
+confederate	256000
+confederate	271000
+confederate	248000
+confederate	241000
+confederate	245000
+confederate	245000
+confederate	269000
+confederate	265000
+confederate	248000
+confederate	348000
+confederate	215000
+confederate	209000
+confederate	311000
+confederate	311000
+confederate	287000
+confederate	319000
+confederate	314000
+confederate	339000
+confederate	287000
+confederate	315000
+confederate	200000
+confederate	268000
+confederate	262000
+confederate	249000
+confederate	265000
+confederate	284000
+confederate	273000
+confederate	258000
+confederate	332000
+confederate	254000
+confederate	237000
+confederate	215000
+confederate	239000
+confederate	196000
+confederate	205000
+confederate	249000
+confederate	2101000
+confederate	215000
+confederate	329000
+confederate	291000
+confederate	188000
+confederate	164000
+confederate	269000
+confederate	300000
+confederate	257000
+confederate	254000
+confederate	250000
+confederate	239000
+confederate	226000
+confederate	213000
+confederate	194000
+confederate	257000
+confederate	182000
+confederate	248000
+confederate	219000
+confederate	183000
+confederate	229000
+confederate	209000
+confederate	244000
+confederate	272000
+confederate	187000
+confederate	188000
+confederate	255000
+confederate	281000
+confederate	208000
+confederate	145000
+confederate	276000
+confederate	285000
+confederate	227000
+confederate	230000
+confederate	255000
+confederate	190000
+confederate	170000
+confederate	320000
+confederate	190000
+confederate	190000
+confederate	245000
+confederate	186000
+confederate	263000
+confederate	166000
+confederate	212000
+confederate	154000
+confederate	166000
+confederate	179000
+confederate	304000
+confederate	304000
+confederate	245000
+confederate	183000
+confederate	233000
+confederate	382000
+confederate	172000
+confederate	50000
+confederate	281000
+confederate	256000
+confederate	236000
+confederate	158000
+confederate	234000
+confederate	233000
+confederate	172000
+confederate	222000
+confederate	191000
+confederate	173000
+confederate	257000
+confederate	255000
+confederate	163000
+confederate	161000
+confederate	165000
+confederate	414000
+confederate	232000
+confederate	175000
+confederate	177000
+confederate	188000
+confederate	196000
+confederate	187000
+confederate	179000
+confederate	174000
+confederate	175000
+confederate	187000
+confederate	570000
+confederate	196000
+confederate	301000
+confederate	158000
+confederate	171000
+confederate	569000
+confederate	354000
+confederate	217000
+confederate	217000
+confederate	148000
+confederate	183000
+confederate	269000
+confederate	253000
+confederate	261000
+confederate	211000
+confederate	182000
+confederate	176000
+confederate	188000
+confederate	240000
+confederate	300000
+confederate	404000
+confederate	361000
+confederate	298000
+confederate	353000
+confederate	199000
+confederate	162000
+confederate	218000
+confederate	190000
+confederate	245000
+confederate	153000
+confederate	212000
+confederate	163000
+confederate	177000
+confederate	280000
+confederate	975000
+confederate	1837000
+confederate	1103000
+confederate	1133000
+confederate	1346000
+confederate	213000
+confederate	248000
+confederate	1393000
+confederate	138000
+confederate	140000
+confederate	866000
+confederate	78000
+confederate	78000
+confederate	85000
+confederate	79000
+confederate	66000
+confederate	148000
+confederate	85000
+confederate	1165000
+confederate	1301000
+confederate	787000
+confederate	1343000
+confederate	265000
+confederate	848000
+confederate	892000
+confederate	2111000
+confederate	104000
+confederate	561000
+confederate	1000
+confederate	219000
+confederate	235000
+confederate	233000
+confederate	250000
+confederate	228000
+confederate	261000
+confederate	243000
+confederate	166000
+confederate	144000
+confederate	187000
+confederate	226000
+confederate	223000
+confederate	197000
+confederate	239000
+confederate	217000
+confederate	148000
+confederate	138000
+confederate	1074000
+confederate	570000
+confederate	1401000
+confederate	711000
+confederate	471000
+confederate	410000
+confederate	158000
+confederate	1004000
+confederate	876000
+confederate	422000
+confederate	477000
+confederate	252000
+confederate	224000
+confederate	180000
+confederate	227000
+confederate	211000
+confederate	217000
+confederate	184000
+confederate	1003000
+confederate	353000
+confederate	70000
+confederate	337000
+confederate	716000
+confederate	352000
+confederate	330000
+confederate	675000
+confederate	960000
+confederate	2000
+confederate	605000
+confederate	152000
+confederate	182000
+confederate	211000
+confederate	224000
+confederate	172000
+confederate	255000
+confederate	80000
+confederate	177000
+confederate	174000
+confederate	200000
+confederate	615000
+confederate	259000
+confederate	121000
+confederate	316000
+confederate	251000
+confederate	582000
+confederate	475000
+confederate	232000
+confederate	70000
+confederate	1661000
+confederate	278000
+confederate	2787000
+confederate	242000
+confederate	276000
+confederate	282000
+confederate	204000
+confederate	802000
+confederate	248000
+confederate	198000
+confederate	906000
+confederate	162000
+confederate	162000
+confederate	152000
+confederate	161000
+confederate	236000
+confederate	221000
+confederate	295000
+confederate	203000
+confederate	189000
+confederate	218000
+confederate	209000
+confederate	170000
+confederate	193000
+confederate	212000
+confederate	210000
+confederate	186000
+confederate	204000
+confederate	134000
+confederate	159000
+confederate	145000
+confederate	159000
+confederate	145000
+confederate	143000
+confederate	168000
+confederate	201000
+confederate	282000
+confederate	229000
+confederate	196000
+confederate	243000
+confederate	221000
+confederate	275000
+confederate	199000
+confederate	207000
+confederate	232000
+confederate	214000
+confederate	245000
+confederate	320000
+confederate	230000
+confederate	265000
+confederate	176000
+confederate	168000
+confederate	305000
+confederate	196000
+confederate	373000
+confederate	232000
+confederate	197000
+confederate	224000
+confederate	185000
+confederate	214000
+confederate	228000
+confederate	272000
+confederate	291000
+confederate	230000
+confederate	221000
+confederate	226000
+confederate	326000
+confederate	259000
+confederate	302000
+confederate	245000
+confederate	1656000
+confederate	198000
+confederate	204000
+confederate	202000
+confederate	205000
+confederate	206000
+confederate	7615000
+confederate	368000
+confederate	239000
+confederate	209000
+confederate	216000
+confederate	305000
+confederate	193000
+confederate	178000
+confederate	212000
+confederate	324000
+confederate	221000
+confederate	479000
+confederate	382000
+confederate	222000
+confederate	299000
+confederate	223000
+confederate	226000
+confederate	273000
+confederate	255000
+confederate	185000
+confederate	193000
+confederate	185000
+confederate	293000
+confederate	238000
+confederate	389000
+confederate	369000
+confederate	189000
+confederate	306000
+confederate	726000
+confederate	1486000
+confederate	600000
+confederate	1261000
+confederate	1785000
+confederate	674000
+confederate	161000
+confederate	159000
+confederate	129000
+confederate	205000
+confederate	189000
+confederate	46000
+confederate	63000
+confederate	7498000
+confederate	545000
+confederate	4424000
+confederate	2000
+confederate	4000000
+confederate	25000
+confederate	25000
+confederate	25000
+confederate	25000
+confederate	31000
+confederate	22000
+confederate	235000
+confederate	232000
+confederate	145000
+confederate	28000
+confederate	25000
+confederate	25000
+confederate	25000
+confederate	25000
+confederate	132000
+confederate	160000
+confederate	194000
+confederate	137000
+confederate	93000
+confederate	159000
+confederate	22000
+confederate	19000
+confederate	19000
+confederate	255000
+confederate	255000
+confederate	25000
+confederate	219000
+confederate	222000
+confederate	151000
+confederate	135000
+confederate	25000
+confederate	78000
+confederate	84000
+confederate	208000
+confederate	31000
+confederate	31000
+confederate	93000
+confederate	72000
+confederate	25000
+confederate	25000
+confederate	31000
+confederate	1397000
+confederate	418000
+confederate	141000
+confederate	126000
+confederate	25000
+confederate	25000
+confederate	109000
+confederate	362000
+confederate	107000
+confederate	103000
+confederate	157000
+confederate	25000
+confederate	84000
+confederate	25000
+confederate	140000
+confederate	155000
+confederate	34000
+confederate	14000
+confederate	90000
+confederate	25000
+confederate	25000
+confederate	79000
+confederate	83000
+confederate	135000
+confederate	10000
+confederate	122000
+confederate	114000
+confederate	41000
+confederate	74000
+confederate	10000
+confederate	10000
+confederate	35000
+confederate	10000
+confederate	15000
+confederate	80000
+confederate	30000
+confederate	10000
+confederate	101000
+confederate	86000
+confederate	89000
+confederate	196000
+confederate	32000
+confederate	28000
+confederate	91000
+confederate	10000
+confederate	10000
+confederate	92000
+confederate	94000
+confederate	61000
+confederate	85000
+confederate	88000
+confederate	133000
+confederate	35000
+confederate	89000
+confederate	103000
+confederate	87000
+confederate	107000
+confederate	10000
+confederate	65000
+confederate	63000
+confederate	59000
+confederate	61000
+confederate	59000
+confederate	58000
+confederate	59000
+confederate	94000
+confederate	77000
+confederate	55000
+confederate	56000
+confederate	55000
+confederate	58000
+confederate	70000
+confederate	72000
+confederate	107000
+confederate	105000
+confederate	97000
+confederate	103000
+confederate	92000
+confederate	113000
+confederate	114000
+confederate	74000
+confederate	70000
+confederate	98000
+confederate	101000
+confederate	79000
+confederate	89000
+confederate	3000
+confederate	1000
+confederate	1000
+confederate	18000
+confederate	26000
+confederate	2000
+confederate	3000
+confederate	10000
+confederate	11000
+confederate	13000
+confederate	8000
+confederate	3000
+confederate	6000
+confederate	9000
+confederate	2000
+confederate	3000
+confederate	11000
+confederate	26000
+confederate	25000
+confederate	3000
+confederate	276000
+confederate	40000
+confederate	20250000
+confederate	10626000
+confederate	162000
+confederate	245000
+confederate	162000
+confederate	98000
+confederate	98000
+confederate	98000
+confederate	57000
+confederate	157000
+confederate	157000
+confederate	157000
+confederate	154000
+confederate	154000
+confederate	146000
+confederate	146000
+confederate	152000
+confederate	146000
+confederate	146000
+confederate	221000
+confederate	182000
+confederate	221000
+confederate	188000
+confederate	192000
+confederate	184000
+confederate	185000
+confederate	191000
+confederate	187000
+confederate	219000
+confederate	55000
+confederate	47000
+confederate	97000
+confederate	36000
+confederate	115000
+confederate	323000
+confederate	100000
+confederate	145000
+confederate	109000
+confederate	2343000
+confederate	424000
+confederate	72000
+confederate	143000
+confederate	47000
+confederate	66000
+confederate	249000
+confederate	120000
+confederate	491000
+confederate	494000
+confederate	364000
+confederate	50000
+confederate	29000
+confederate	32000
+confederate	54000
+confederate	5000
+confederate	50000
+confederate	84000
+confederate	38000
+confederate	54000
+confederate	101000
+confederate	101000
+confederate	98000
+confederate	68000
+confederate	45000
+confederate	95000
+confederate	275000
+confederate	93000
+confederate	841000
+confederate	177000
+confederate	9425000
+confederate	6368000
+confederate	10389000
+confederate	16505000
+confederate	12318000
+confederate	50115000
+confederate	1620000
+confederate	2306000
+confederate	73000
+confederate	63000
+confederate	353000
+confederate	47000
+confederate	102000
+confederate	96000
+confederate	144000
+confederate	202000
+confederate	298000
+confederate	24000
+confederate	2520000
+confederate	141000
+confederate	427000
+confederate	129000
+confederate	55000
+confederate	2000
+confederate	3500000
+confederate	284000
+confederate	179000
+confederate	103000
+confederate	133000
+confederate	145000
+confederate	168000
+confederate	167000
+confederate	85000
+confederate	139000
+confederate	152000
+confederate	131000
+confederate	170000
+confederate	1000
+confederate	161000
+confederate	163000
+confederate	203000
+confederate	89000
+confederate	91000
+confederate	202000
+confederate	240000
+confederate	136000
+confederate	137000
+confederate	129000
+confederate	35000
+confederate	281000
+confederate	191000
+confederate	256000
+confederate	192000
+confederate	176000
+confederate	196000
+confederate	179000
+confederate	173000
+confederate	176000
+confederate	160000
+confederate	200000
+confederate	211000
+confederate	235000
+confederate	177000
+confederate	284000
+confederate	330000
+confederate	156000
+confederate	183000
+confederate	124000
+confederate	161000
+confederate	223000
+confederate	224000
+confederate	310000
+confederate	290000
+confederate	227000
+confederate	161000
+confederate	214000
+confederate	212000
+confederate	309000
+confederate	306000
+confederate	281000
+confederate	208000
+confederate	232000
+confederate	223000
+confederate	220000
+confederate	294000
+confederate	100000
+confederate	197000
+confederate	155000
+confederate	145000
+confederate	264000
+confederate	205000
+confederate	196000
+confederate	178000
+confederate	152000
+confederate	162000
+confederate	160000
+confederate	144000
+confederate	154000
+confederate	167000
+confederate	155000
+confederate	183000
+confederate	246000
+confederate	213000
+confederate	164000
+confederate	217000
+confederate	191000
+confederate	218000
+confederate	212000
+confederate	193000
+confederate	218000
+confederate	191000
+confederate	199000
+confederate	25000
+confederate	236000
+confederate	158000
+confederate	200000
+confederate	155000
+confederate	194000
+confederate	221000
+confederate	183000
+confederate	143000
+confederate	360000
+confederate	139000
+confederate	157000
+confederate	153000
+confederate	114000
+confederate	155000
+confederate	139000
+confederate	179000
+confederate	271000
+confederate	261000
+confederate	145000
+confederate	162000
+confederate	195000
+confederate	121000
+confederate	220000
+confederate	233000
+confederate	90000
+confederate	205000
+confederate	335000
+confederate	138000
+confederate	1350000
+confederate	107000
+confederate	114000
+confederate	127000
+confederate	108000
+confederate	117000
+confederate	126000
+confederate	115000
+confederate	86000
+confederate	120000
+confederate	122000
+confederate	142000
+confederate	90000
+confederate	148000
+confederate	114000
+confederate	103000
+confederate	160000
+confederate	125000
+confederate	115000
+confederate	131000
+confederate	135000
+confederate	136000
+confederate	140000
+confederate	123000
+confederate	136000
+confederate	111000
+confederate	142000
+confederate	123000
+confederate	149000
+confederate	155000
+confederate	136000
+confederate	127000
+confederate	123000
+confederate	113000
+confederate	134000
+confederate	136000
+confederate	118000
+confederate	137000
+confederate	150000
+confederate	136000
+confederate	133000
+confederate	105000
+confederate	124000
+confederate	99000
+confederate	105000
+confederate	90000
+confederate	93000
+confederate	92000
+confederate	104000
+confederate	90000
+confederate	102000
+confederate	79000
+confederate	384000
+confederate	164000
+confederate	174000
+confederate	174000
+confederate	195000
+confederate	197000
+confederate	253000
+confederate	436000
+confederate	308000
+confederate	303000
+confederate	289000
+confederate	212000
+confederate	161000
+confederate	169000
+confederate	192000
+confederate	140000
+confederate	144000
+confederate	160000
+confederate	156000
+confederate	48000
+confederate	108000
+confederate	245000
+confederate	264000
+confederate	211000
+confederate	207000
+confederate	332000
+confederate	222000
+confederate	213000
+confederate	214000
+confederate	274000
+confederate	473000
+confederate	473000
+confederate	2000
+confederate	384000
+confederate	384000
+confederate	370000
+confederate	354000
+confederate	477000
+confederate	315000
+confederate	379000
+confederate	330000
+confederate	336000
+confederate	339000
+confederate	372000
+confederate	338000
+confederate	319000
+confederate	307000
+confederate	285000
+confederate	13000
+confederate	174000
+confederate	250000
+confederate	173000
+confederate	177000
+confederate	261000
+confederate	251000
+confederate	229000
+confederate	227000
+confederate	198000
+confederate	191000
+confederate	256000
+confederate	261000
+confederate	175000
+confederate	243000
+confederate	199000
+confederate	119000
+confederate	225000
+confederate	224000
+confederate	311000
+confederate	294000
+confederate	253000
+confederate	433000
+confederate	298000
+confederate	339000
+confederate	2000
+confederate	325000
+confederate	321000
+confederate	302000
+confederate	353000
+confederate	468000
+confederate	356000
+confederate	399000
+confederate	276000
+confederate	292000
+confederate	278000
+confederate	374000
+confederate	422000
+confederate	212000
+confederate	291000
+confederate	290000
+confederate	25000
+confederate	44000
+confederate	15000
+confederate	83000
+confederate	15000
+confederate	66000
+confederate	75000
+confederate	74000
+confederate	102000
+confederate	73000
+confederate	140000
+confederate	119000
+confederate	21000
+confederate	88000
+confederate	90000
+confederate	53000
+confederate	84000
+confederate	16000
+confederate	51000
+confederate	76000
+confederate	79000
+confederate	84000
+confederate	79000
+confederate	70000
+confederate	44000
+confederate	28000
+confederate	65000
+confederate	72000
+confederate	77000
+confederate	282000
+confederate	198000
+confederate	229000
+confederate	241000
+confederate	208000
+confederate	240000
+confederate	235000
+confederate	216000
+confederate	281000
+confederate	211000
+confederate	203000
+confederate	268000
+confederate	160000
+confederate	245000
+confederate	204000
+confederate	18000
+confederate	210000
+confederate	292000
+confederate	319000
+confederate	215000
+confederate	311000
+confederate	214000
+confederate	260000
+confederate	251000
+confederate	257000
+confederate	203000
+confederate	230000
+confederate	228000
+confederate	238000
+confederate	9000
+confederate	135000
+confederate	33000
+confederate	150000
+confederate	70000
+confederate	9000
+confederate	9000
+confederate	19000
+confederate	9000
+confederate	9000
+confederate	11000
+confederate	9000
+confederate	15000
+confederate	141000
+confederate	140000
+confederate	140000
+confederate	140000
+confederate	24000
+confederate	9000
+confederate	122000
+confederate	22000
+confederate	213000
+confederate	208000
+confederate	243000
+confederate	266000
+confederate	256000
+confederate	293000
+confederate	907000
+confederate	1493000
+confederate	3090000
+confederate	382000
+confederate	200000
+confederate	200000
+confederate	184000
+confederate	820000
+confederate	2012000
+confederate	5000
+confederate	1139000
+confederate	1029000
+confederate	413000
+confederate	778000
+confederate	600000
+confederate	179000
+confederate	427000
+confederate	532000
+confederate	63000
+confederate	59000
+confederate	59000
+confederate	17000
+confederate	59000
+confederate	17000
+confederate	17000
+confederate	11000
+confederate	193000
+confederate	157000
+confederate	201000
+confederate	111000
+confederate	157000
+confederate	32000
+confederate	30000
+confederate	178000
+confederate	201000
+confederate	530000
+confederate	60000
+confederate	58000
+confederate	122000
+confederate	159000
+confederate	151000
+confederate	105000
+confederate	149000
+confederate	148000
+confederate	106000
+confederate	124000
+confederate	75000
+confederate	78000
+confederate	103000
+confederate	156000
+confederate	157000
+confederate	106000
+confederate	54000
+confederate	94000
+confederate	94000
+confederate	94000
+confederate	94000
+confederate	95000
+confederate	92000
+confederate	93000
+confederate	93000
+confederate	160000
+confederate	106000
+confederate	96000
+confederate	106000
+confederate	95000
+confederate	96000
+confederate	160000
+confederate	96000
+confederate	178000
+confederate	126000
+confederate	121000
+confederate	155000
+confederate	140000
+confederate	319000
+confederate	150000
+confederate	154000
+confederate	146000
+confederate	146000
+confederate	146000
+confederate	149000
+confederate	150000
+confederate	148000
+confederate	147000
+confederate	149000
+confederate	147000
+confederate	147000
+confederate	147000
+confederate	149000
+confederate	147000
+confederate	147000
+confederate	153000
+confederate	150000
+confederate	147000
+confederate	147000
+confederate	147000
+confederate	149000
+confederate	147000
+confederate	148000
+confederate	147000
+confederate	153000
+confederate	150000
+confederate	148000
+confederate	149000
+confederate	146000
+confederate	146000
+confederate	146000
+confederate	146000
+confederate	146000
+confederate	148000
+confederate	148000
+confederate	149000
+confederate	147000
+confederate	219000
+confederate	204000
+confederate	177000
+confederate	206000
+confederate	215000
+confederate	197000
+confederate	180000
+confederate	180000
+confederate	178000
+confederate	482000
+confederate	630000
+confederate	540000
+confederate	455000
+confederate	518000
+confederate	395000
+confederate	635000
+confederate	480000
+confederate	554000
+confederate	457000
+confederate	669000
+confederate	474000
+confederate	478000
+confederate	430000
+confederate	449000
+confederate	388000
+confederate	545000
+confederate	482000
+confederate	480000
+confederate	481000
+confederate	471000
+confederate	515000
+confederate	498000
+confederate	492000
+confederate	465000
+confederate	560000
+confederate	399000
+confederate	628000
+confederate	479000
+confederate	518000
+confederate	483000
+confederate	628000
+confederate	579000
+confederate	410000
+confederate	364000
+confederate	570000
+confederate	577000
+confederate	397000
+confederate	643000
+confederate	514000
+confederate	561000
+confederate	501000
+confederate	403000
+confederate	534000
+confederate	580000
+confederate	498000
+confederate	499000
+confederate	494000
+confederate	485000
+confederate	497000
+confederate	510000
+confederate	492000
+confederate	611000
+confederate	655000
+confederate	721000
+confederate	625000
+confederate	587000
+confederate	582000
+confederate	696000
+confederate	1056000
+confederate	583000
+confederate	493000
+confederate	488000
+confederate	549000
+confederate	460000
+confederate	447000
+confederate	698000
+confederate	576000
+confederate	681000
+confederate	495000
+confederate	647000
+confederate	540000
+confederate	710000
+confederate	649000
+confederate	666000
+confederate	753000
+confederate	437000
+confederate	666000
+confederate	615000
+confederate	519000
+confederate	427000
+confederate	694000
+confederate	705000
+confederate	697000
+confederate	655000
+confederate	2000
+confederate	115000
+confederate	19000
+confederate	29000
+confederate	122000
+confederate	100000
+confederate	30000
+confederate	112000
+confederate	132000
+confederate	92000
+confederate	85000
+confederate	92000
+confederate	57000
+confederate	150000
+confederate	162000
+confederate	1000
+confederate	127000
+confederate	97000
+confederate	111000
+confederate	155000
+confederate	96000
+confederate	101000
+confederate	124000
+confederate	109000
+confederate	97000
+confederate	102000
+confederate	118000
+confederate	115000
+confederate	102000
+confederate	110000
+confederate	109000
+confederate	147000
+confederate	99000
+confederate	3497000
+confederate	97000
+confederate	94000
+confederate	92000
+confederate	91000
+confederate	114000
+confederate	120000
+confederate	30000
+confederate	30000
+confederate	25000
+confederate	105000
+confederate	223000
+confederate	99000
+confederate	107000
+confederate	160000
+confederate	144000
+confederate	107000
+confederate	153000
+confederate	73000
+confederate	84000
+confederate	77000
+confederate	75000
+confederate	6000
+confederate	96000
+confederate	35000
+confederate	35000
+confederate	20000
+confederate	11000
+confederate	137000
+confederate	64000
+confederate	71000
+confederate	76000
+confederate	91000
+confederate	77000
+confederate	81000
+confederate	85000
+confederate	78000
+confederate	84000
+confederate	114000
+confederate	126000
+confederate	24000
+confederate	86000
+confederate	78000
+confederate	99000
+confederate	83000
+confederate	86000
+confederate	116000
+confederate	78000
+confederate	95000
+confederate	118000
+confederate	84000
+confederate	559000
+confederate	106000
+confederate	143000
+confederate	117000
+confederate	116000
+confederate	109000
+confederate	94000
+confederate	76000
+confederate	91000
+confederate	87000
+confederate	116000
+confederate	112000
+confederate	114000
+confederate	63000
+confederate	106000
+confederate	112000
+confederate	186000
+confederate	118000
+confederate	156000
+confederate	163000
+confederate	199000
+confederate	10000
+confederate	140000
+confederate	111000
+confederate	115000
+confederate	151000
+confederate	89000
+confederate	91000
+confederate	84000
+confederate	94000
+confederate	64000
+confederate	155000
+confederate	87000
+confederate	138000
+confederate	137000
+confederate	178000
+confederate	135000
+confederate	120000
+confederate	106000
+confederate	126000
+confederate	120000
+confederate	78000
+confederate	77000
+confederate	101000
+confederate	77000
+confederate	125000
+confederate	101000
+confederate	99000
+confederate	128000
+confederate	110000
+confederate	72000
+confederate	61000
+confederate	76000
+confederate	96000
+confederate	122000
+confederate	76000
+confederate	75000
+confederate	90000
+confederate	114000
+confederate	106000
+confederate	44000
+confederate	46000
+confederate	5000
+confederate	133000
+confederate	872000
+confederate	28000
+confederate	84000
+confederate	87000
+confederate	99000
+confederate	67000
+confederate	66000
+confederate	66000
+confederate	69000
+confederate	125000
+confederate	97000
+confederate	98000
+confederate	40000
+confederate	71000
+confederate	67000
+confederate	59000
+confederate	56000
+confederate	65000
+confederate	20000
+confederate	10000
+confederate	74000
+confederate	53000
+confederate	89000
+confederate	77000
+confederate	49000
+confederate	48000
+confederate	66000
+confederate	74000
+confederate	74000
+confederate	55000
+confederate	53000
+confederate	44000
+confederate	59000
+confederate	77000
+confederate	10000
+confederate	79000
+confederate	48000
+confederate	42000
+confederate	39000
+confederate	40000
+confederate	42000
+confederate	60000
+confederate	41000
+confederate	54000
+confederate	58000
+confederate	52000
+confederate	52000
+confederate	62000
+confederate	51000
+confederate	51000
+confederate	64000
+confederate	51000
+confederate	87000
+confederate	60000
+confederate	63000
+confederate	42000
+confederate	52000
+confederate	51000
+confederate	53000
+confederate	53000
+confederate	60000
+confederate	53000
+confederate	89000
+confederate	78000
+confederate	50000
+confederate	53000
+confederate	53000
+confederate	69000
+confederate	60000
+confederate	56000
+confederate	53000
+confederate	47000
+confederate	76000
+confederate	58000
+confederate	61000
+confederate	56000
+confederate	50000
+confederate	56000
+confederate	52000
+confederate	116000
+confederate	20000
+confederate	86000
+confederate	53000
+confederate	46000
+confederate	48000
+confederate	53000
+confederate	48000
+confederate	39000
+confederate	68000
+confederate	61000
+confederate	94000
+confederate	61000
+confederate	56000
+confederate	31000
+confederate	52000
+confederate	44000
+confederate	39000
+confederate	52000
+confederate	56000
+confederate	45000
+confederate	39000
+confederate	52000
+confederate	40000
+confederate	56000
+confederate	60000
+confederate	38000
+confederate	57000
+confederate	47000
+confederate	53000
+confederate	53000
+confederate	66000
+confederate	64000
+confederate	53000
+confederate	53000
+confederate	53000
+confederate	101000
+confederate	98000
+confederate	107000
+confederate	197000
+confederate	85000
+confederate	69000
+confederate	68000
+confederate	90000
+confederate	114000
+confederate	72000
+confederate	80000
+confederate	150000
+confederate	102000
 either	15000
 either	10000
 either	15000

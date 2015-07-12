@@ -8,6 +8,8 @@
 1. get street names
   1. identify stopwords in street names using most frequent short (esp. vowelless) unigrams
     1. pull out non-stopwords from street names
+1. join barest civil rights and confederate leader names to barest street names
+1. map!
 
 ### sources
 * http://dbpedia.org/page/Confederate_States_Army

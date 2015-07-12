@@ -1,159 +1,159 @@
-names civil rights,names confederate,street name
-,Abraham Buford II,Buford Ave
-,Absolom M. West,West Ave
-,Alexander W. Campbell,Campbell Ave
-,Alexander William Campbell ,Campbell Ave
-,Allen Thomas,Thomas St
-,Ambrose R. Wright,Wright Ave
-,Benjamin F. Cheatham,Cheatham St
-,Benjamin Franklin Gordon,Gordon Ave
-,Benjamin Stephen Hooper,E Hooper St
-,Benjamin Stephen Hooper,E Hooper St Exd
-,Benjamin Stephen Hooper,W Hooper St
-,Braxton Bragg,Bragg St
-,Bryan M. Thomas,Thomas St
-,Charles Sidney Winder,Winder St
-,Charles S. Thomas,Thomas St
-,Charles W. Adams,N Adams St
-,Charles W. Adams,S Adams St
-,Christopher C. Bowen,Bowen St
-,Dabney H. Maury,Maury St
-,Daniel Weisiger Adams,N Adams St
-,Daniel Weisiger Adams,S Adams St
-,David Gardiner Tyler,Tyler St
-,Douglas H. Cooper,Cooper Rd
-,Edmund Kirby Smith,Smith St
-,Edmund Pettus,Pettus Rd
-,Edward Lloyd Thomas,Thomas St
-,Elkanah Greer,Greer Ave
-,Francis Marion Walker,Walker St
-,Frank A. Montgomery,Montgomery St
-,George D. Wise,Wise St
-,George E. Dixon,Dixon Dr
-,George W. Randolph,Randolph St
-,George W. Randolph,S Randolph St
-,Goode Bryan,Bryan Park Ave
-,Goode Bryan,Bryan St
-,Gustavus Woodson Smith,Smith St
-,Henry Gray ,Gray St
-,Henry Harrison Walker,Walker St
-,Henry Marshall Ashby,Ashby Way
-,Henry Watkins Allen,N Allen Ave
-,Henry Watkins Allen,S Allen Ave
-,Humphrey Marshall ,E Marshall St
-,Humphrey Marshall ,W Marshall St
-,James A. Walker,Walker St
-,James B. Gordon,Gordon Ave
-,James E. Harrison,N Harrison St
-,James E. Harrison,S Harrison St
-,James Harvey Carson,Carson St
-,James Hoge Tyler,Tyler St
-,James L. Kemper,Kemper St
-,James Norton ,Norton St
-,James William Boyd,Boyd St
-,Jeremy Francis Gilmer,Gilmer St
-,John Adams ,N Adams St
-,John Adams ,S Adams St
-,John A. Wharton,Wharton Rd
-,John B. Grayson,Grayson St
-,John George Walker,Walker St
-,John Lamb ,Lamb Ave
-,John May Taylor,Taylor Ave
-,John Selden Roane,Roane St
-,John Sergeant Wise,Wise St
-,John S. Preston,E Preston St
-,John Thomas Lewis Preston,E Preston St
-,John W. Daniel,Daniel St
-,John W. Lawson,Lawson St
-,Joseph Horace Lewis,Lewis Ave
-,Joseph O. Shelby,Shelby Dr
-,Josiah Patterson,Patterson Ave
-,Junius Daniel,Daniel St
-,Leroy Augustus Stafford,N Stafford Ave
-,Leroy Augustus Stafford,S Stafford Ave
-,LeRoy Pope Walker,Walker St
-,Levin Major Lewis,Lewis Ave
-,Lucius B. Northrop,Northrop St
-,Lucius M. Walker,Walker St
-,Lucius Quintus Cincinnatus Lamar II,Lamar Dr
-,Marcellus Jerome Clarke,Clarke Rd
-,Marcus Joseph Wright,Wright Ave
-,Martin Luther Smith,Smith St
-,M. Jeff Thompson,N Thompson St
-,M. Jeff Thompson,S Thompson St
-,Nathan Bedford Forrest,Forrest Hill Ave
-,Nathan George Evans,Evans St
-,Oran Milo Roberts,E Roberts St
-,Oran Milo Roberts,Roberts St
-,Oran Milo Roberts,W Roberts St
-,Philip B. Thompson Jr.,N Thompson St
-,Philip B. Thompson Jr.,S Thompson St
-,Raphael Semmes,Semmes Ave
-,Reuben Lindsay Walker,Walker St
-,Richard Alsop Wise,Wise St
-,Richard Chichester Mason,Mason St
-,Robert Lowry ,Lowry St
-,Roswell S. Ripley,Ripley Ave
-,Samuel Gibbs French,French St
-,Samuel I. Hopkins,Hopkins Ct
-,Samuel I. Hopkins,Hopkins Ln
-,Samuel I. Hopkins,Hopkins Rd
-,Samuel I. Hopkins,N Hopkins Rd
-,Samuel I. Hopkins,Old Hopkins Rd
-,Seth Barton,Barton Ave
-,Sterling Price,Price St
-,Thomas Benton Smith,Smith St
-,Thomas Bothwell Jeter,Jeter Ave
-,Thomas Harrison ,N Harrison St
-,Thomas Harrison ,S Harrison St
-,Thomas H. Taylor,Taylor Ave
-,Thomas Jordan Jarvis,Jarvis Rd
-,Thomas T. Munford,Munford St
-,Thomas Whitehead,Whitehead Rd
-,William Duncan Smith,Smith St
-,William Dunlap Simpson,Simpson Ave
-,William F. Perry,Perry St
-,William G. Lewis,Lewis Ave
-,William Henry Carroll,Carroll St
-,William Henry Wallace,Wallace St
-,William H. Perry,Perry St
-,William Hugh Young,Young St
-,William Miller ,Miller Ave
-,William Paul Roberts,E Roberts St
-,William Paul Roberts,Roberts St
-,William Paul Roberts,W Roberts St
-,William Preston ,E Preston St
-,William Smith ,Smith St
-,William Stephen Walker,Walker St
-,William Wirt Adams,N Adams St
-,William Wirt Adams,S Adams St
-,W. Jasper Talbert,Talbert Dr
-,Young Marshall Moody,Moody Ave
-C. L. Franklin,,E Franklin St
-C. L. Franklin,,W Franklin St
-Ernestine Rose,,Rose Ave
-Sadie Tanner Mossell Alexander,,Alexander Ave
-Xernona Clayton,,Clayton Dr
-Amelia Boynton Robinson,James L. Robinson,N Robinson St
-Amelia Boynton Robinson,James L. Robinson,S Robinson St
-Coretta Scott King,Wilburn Hill King,King St
-Harriette Moore,Patrick T. Moore,Moore St
-Harriette Moore,Patrick T. Moore,W Moore St
-Harry T. Moore,Patrick T. Moore,Moore St
-Harry T. Moore,Patrick T. Moore,W Moore St
-Lillie Mae Carroll Jackson,Alfred E. Jackson,E Jackson St
-Lillie Mae Carroll Jackson,William Hicks Jackson,E Jackson St
-Lillie Mae Carroll Jackson,Alfred E. Jackson,W Jackson St
-Lillie Mae Carroll Jackson,William Hicks Jackson,W Jackson St
-Louis Berry,James Henderson Berry,Berry Rd
-Louis Berry,James Henderson Berry,Berry St
-Oscar Brown Sr.,John C. Brown,Brown St
-Oscar Brown Sr.,John Robert Brown ,Brown St
-Rashad Robinson,James L. Robinson,N Robinson St
-Rashad Robinson,James L. Robinson,S Robinson St
-Ted Berry,James Henderson Berry,Berry Rd
-Ted Berry,James Henderson Berry,Berry St
-W. Harry Davis,Alexander Davis,N Davis Ave
-W. Harry Davis,William G. M. Davis,N Davis Ave
-W. Harry Davis,Alexander Davis,S Davis Ave
-W. Harry Davis,William G. M. Davis,S Davis Ave
+type,street name,name civil rights,name confederate
+confederate,Buford Ave,,Abraham Buford II
+confederate,West Ave,,Absolom M. West
+confederate,Campbell Ave,,Alexander W. Campbell
+confederate,Campbell Ave,,Alexander William Campbell 
+confederate,Thomas St,,Allen Thomas
+confederate,Wright Ave,,Ambrose R. Wright
+confederate,Cheatham St,,Benjamin F. Cheatham
+confederate,Gordon Ave,,Benjamin Franklin Gordon
+confederate,E Hooper St,,Benjamin Stephen Hooper
+confederate,E Hooper St Exd,,Benjamin Stephen Hooper
+confederate,W Hooper St,,Benjamin Stephen Hooper
+confederate,Bragg St,,Braxton Bragg
+confederate,Thomas St,,Bryan M. Thomas
+confederate,Winder St,,Charles Sidney Winder
+confederate,Thomas St,,Charles S. Thomas
+confederate,N Adams St,,Charles W. Adams
+confederate,S Adams St,,Charles W. Adams
+confederate,Bowen St,,Christopher C. Bowen
+confederate,Maury St,,Dabney H. Maury
+confederate,N Adams St,,Daniel Weisiger Adams
+confederate,S Adams St,,Daniel Weisiger Adams
+confederate,Tyler St,,David Gardiner Tyler
+confederate,Cooper Rd,,Douglas H. Cooper
+confederate,Smith St,,Edmund Kirby Smith
+confederate,Pettus Rd,,Edmund Pettus
+confederate,Thomas St,,Edward Lloyd Thomas
+confederate,Greer Ave,,Elkanah Greer
+confederate,Walker St,,Francis Marion Walker
+confederate,Montgomery St,,Frank A. Montgomery
+confederate,Wise St,,George D. Wise
+confederate,Dixon Dr,,George E. Dixon
+confederate,Randolph St,,George W. Randolph
+confederate,S Randolph St,,George W. Randolph
+confederate,Bryan Park Ave,,Goode Bryan
+confederate,Bryan St,,Goode Bryan
+confederate,Smith St,,Gustavus Woodson Smith
+confederate,Gray St,,Henry Gray 
+confederate,Walker St,,Henry Harrison Walker
+confederate,Ashby Way,,Henry Marshall Ashby
+confederate,N Allen Ave,,Henry Watkins Allen
+confederate,S Allen Ave,,Henry Watkins Allen
+confederate,E Marshall St,,Humphrey Marshall 
+confederate,W Marshall St,,Humphrey Marshall 
+confederate,Walker St,,James A. Walker
+confederate,Gordon Ave,,James B. Gordon
+confederate,N Harrison St,,James E. Harrison
+confederate,S Harrison St,,James E. Harrison
+confederate,Carson St,,James Harvey Carson
+confederate,Tyler St,,James Hoge Tyler
+confederate,Kemper St,,James L. Kemper
+confederate,Norton St,,James Norton 
+confederate,Boyd St,,James William Boyd
+confederate,Gilmer St,,Jeremy Francis Gilmer
+confederate,N Adams St,,John Adams 
+confederate,S Adams St,,John Adams 
+confederate,Wharton Rd,,John A. Wharton
+confederate,Grayson St,,John B. Grayson
+confederate,Walker St,,John George Walker
+confederate,Lamb Ave,,John Lamb 
+confederate,Taylor Ave,,John May Taylor
+confederate,Roane St,,John Selden Roane
+confederate,Wise St,,John Sergeant Wise
+confederate,E Preston St,,John S. Preston
+confederate,E Preston St,,John Thomas Lewis Preston
+confederate,Daniel St,,John W. Daniel
+confederate,Lawson St,,John W. Lawson
+confederate,Lewis Ave,,Joseph Horace Lewis
+confederate,Shelby Dr,,Joseph O. Shelby
+confederate,Patterson Ave,,Josiah Patterson
+confederate,Daniel St,,Junius Daniel
+confederate,N Stafford Ave,,Leroy Augustus Stafford
+confederate,S Stafford Ave,,Leroy Augustus Stafford
+confederate,Walker St,,LeRoy Pope Walker
+confederate,Lewis Ave,,Levin Major Lewis
+confederate,Northrop St,,Lucius B. Northrop
+confederate,Walker St,,Lucius M. Walker
+confederate,Lamar Dr,,Lucius Quintus Cincinnatus Lamar II
+confederate,Clarke Rd,,Marcellus Jerome Clarke
+confederate,Wright Ave,,Marcus Joseph Wright
+confederate,Smith St,,Martin Luther Smith
+confederate,N Thompson St,,M. Jeff Thompson
+confederate,S Thompson St,,M. Jeff Thompson
+confederate,Forrest Hill Ave,,Nathan Bedford Forrest
+confederate,Evans St,,Nathan George Evans
+confederate,E Roberts St,,Oran Milo Roberts
+confederate,Roberts St,,Oran Milo Roberts
+confederate,W Roberts St,,Oran Milo Roberts
+confederate,N Thompson St,,Philip B. Thompson Jr.
+confederate,S Thompson St,,Philip B. Thompson Jr.
+confederate,Semmes Ave,,Raphael Semmes
+confederate,Walker St,,Reuben Lindsay Walker
+confederate,Wise St,,Richard Alsop Wise
+confederate,Mason St,,Richard Chichester Mason
+confederate,Lowry St,,Robert Lowry 
+confederate,Ripley Ave,,Roswell S. Ripley
+confederate,French St,,Samuel Gibbs French
+confederate,Hopkins Ct,,Samuel I. Hopkins
+confederate,Hopkins Ln,,Samuel I. Hopkins
+confederate,Hopkins Rd,,Samuel I. Hopkins
+confederate,N Hopkins Rd,,Samuel I. Hopkins
+confederate,Old Hopkins Rd,,Samuel I. Hopkins
+confederate,Barton Ave,,Seth Barton
+confederate,Price St,,Sterling Price
+confederate,Smith St,,Thomas Benton Smith
+confederate,Jeter Ave,,Thomas Bothwell Jeter
+confederate,N Harrison St,,Thomas Harrison 
+confederate,S Harrison St,,Thomas Harrison 
+confederate,Taylor Ave,,Thomas H. Taylor
+confederate,Jarvis Rd,,Thomas Jordan Jarvis
+confederate,Munford St,,Thomas T. Munford
+confederate,Whitehead Rd,,Thomas Whitehead
+confederate,Smith St,,William Duncan Smith
+confederate,Simpson Ave,,William Dunlap Simpson
+confederate,Perry St,,William F. Perry
+confederate,Lewis Ave,,William G. Lewis
+confederate,Carroll St,,William Henry Carroll
+confederate,Wallace St,,William Henry Wallace
+confederate,Perry St,,William H. Perry
+confederate,Young St,,William Hugh Young
+confederate,Miller Ave,,William Miller 
+confederate,E Roberts St,,William Paul Roberts
+confederate,Roberts St,,William Paul Roberts
+confederate,W Roberts St,,William Paul Roberts
+confederate,E Preston St,,William Preston 
+confederate,Smith St,,William Smith 
+confederate,Walker St,,William Stephen Walker
+confederate,N Adams St,,William Wirt Adams
+confederate,S Adams St,,William Wirt Adams
+confederate,Talbert Dr,,W. Jasper Talbert
+confederate,Moody Ave,,Young Marshall Moody
+civil rights,E Franklin St,C. L. Franklin,
+civil rights,W Franklin St,C. L. Franklin,
+civil rights,Rose Ave,Ernestine Rose,
+civil rights,Alexander Ave,Sadie Tanner Mossell Alexander,
+civil rights,Clayton Dr,Xernona Clayton,
+either,N Robinson St,Amelia Boynton Robinson,James L. Robinson
+either,S Robinson St,Amelia Boynton Robinson,James L. Robinson
+either,King St,Coretta Scott King,Wilburn Hill King
+either,Moore St,Harriette Moore,Patrick T. Moore
+either,W Moore St,Harriette Moore,Patrick T. Moore
+either,Moore St,Harry T. Moore,Patrick T. Moore
+either,W Moore St,Harry T. Moore,Patrick T. Moore
+either,E Jackson St,Lillie Mae Carroll Jackson,Alfred E. Jackson
+either,E Jackson St,Lillie Mae Carroll Jackson,William Hicks Jackson
+either,W Jackson St,Lillie Mae Carroll Jackson,Alfred E. Jackson
+either,W Jackson St,Lillie Mae Carroll Jackson,William Hicks Jackson
+either,Berry Rd,Louis Berry,James Henderson Berry
+either,Berry St,Louis Berry,James Henderson Berry
+either,Brown St,Oscar Brown Sr.,John C. Brown
+either,Brown St,Oscar Brown Sr.,John Robert Brown 
+either,N Robinson St,Rashad Robinson,James L. Robinson
+either,S Robinson St,Rashad Robinson,James L. Robinson
+either,Berry Rd,Ted Berry,James Henderson Berry
+either,Berry St,Ted Berry,James Henderson Berry
+either,N Davis Ave,W. Harry Davis,Alexander Davis
+either,N Davis Ave,W. Harry Davis,William G. M. Davis
+either,S Davis Ave,W. Harry Davis,Alexander Davis
+either,S Davis Ave,W. Harry Davis,William G. M. Davis

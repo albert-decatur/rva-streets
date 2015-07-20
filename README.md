@@ -18,3 +18,4 @@
 * http://dbpedia.org/page/Confederate_States_Army
 * http://dbpedia.org/page/Civil_and_political_rights
 * TIGER/Line Richmond City zip
+* TODO substitute civil rights with https://en.wikipedia.org/wiki/Category:African-American_activists
